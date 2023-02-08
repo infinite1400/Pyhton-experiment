@@ -1,5 +1,5 @@
-print("enter length in feet")
+print("Enter length in feet")
 x=input()
 x=float(x)
 a=x*0.305
-print("meters:",a)
+print("Meters:",a)

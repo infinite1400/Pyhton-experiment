@@ -1,30 +1,30 @@
 import turtle
 t=turtle.Turtle()
-r=50
+r=70
 t.pensize(2)
-t.color("blue")
+t.color("black")
 t.circle(r)
 
-t.color("black")
+t.color("blue")
 t.penup()
-t.goto(70,0)
+t.goto(-150,0)
 t.pendown()
 t.circle(r)
 
 t.color("red")
 t.penup()
-t.goto(140,0)
+t.goto(150,0)
 t.pendown()
 t.circle(r)
 
 t.color("yellow")
 t.penup()
-t.goto(40,-50)
+t.goto(-75,-70)
 t.pendown()
 t.circle(r)
 
 t.color("green")
 t.penup()
-t.goto(110,-50)
+t.goto(75,-70)
 t.pendown()
 t.circle(r)

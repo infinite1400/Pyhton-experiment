@@ -1,0 +1,8257 @@
+Faculty – National Institute of Technology, Kurukshetra
+ Awadhesh Kumar Singh (Head of the Department)
+
+Designation:    Professor
+
+Qualification:    PhD (Engineering), Jadavpur University Kolkata, Year 2004
+Email:    aksingh@nitkkr.ac.in
+Phone No:    233481 (Off.) 09416570992
+Area of Interest:    Distributed Computing Systems, Concurrent Algorithms, Mobile Computing
+
+ Mayank Dave
+
+Designation:    Professor
+
+Qualification:    Ph.D (2002, IIT Roorkee), Senior Member IEEE
+Email:    mdave@nitkkr.ac.in
+Phone No:    01744-233480
+Area of Interest:    Latest Topic of Interest: Applying AI and Machine Learning Techniques for System and Network Security Other Areas of Interest: Software Defined Networking, Cyber Security, Blockchain, Wireless Sensor Networks, Semantic Web, Cloud Computing, Internet of Things, Operating Systems, Data Structures, Programming (Also refer to our recent book “Security and Privacy Issues in Sensor Networks and IoT” (IGI Global), 2019, DOI: 10.4018/978-1-7998-0373-7).
+
+ Jitender Kumar Chhabra
+
+Designation:    Professor
+
+Qualification:    B.Tech(CSE) from NITK as 2nd Topper, M.Tech (CSE) from NITK as Gold Medalist, PhD (S/w Engg)
+Email:    jitenderchhabra@nitkkr.ac.in
+Phone No:    +91-1744-233482 (off-Direct no) 9416733789 (Mob)
+Area of Interest:    Teaching Interests: Data Structures, Design & Analysis of Algorithms, Competitive & Efficient Programming, Programming in C, Object Oriented Programming in C++, Software Design & Development, Software Engineering & Project Development, Operating Systems, Data Bases, Object Oriented Systems, Software Testing. Research Interests: Software Engineering, Soft Computing, Software Metrics, Machine Learning & AI in S/w Engg; clustering and mining
+Experience : 29 years (Teaching alongwith Research )
+Publications : Total 158
+
+SCI/Scopus indexed International Journals: 55
+Others and National Journals: 18
+Book Chapters & Procedia, LNCS etc: 24
+International Conferences: 45
+National Conferences: 16
+
+Reviewer for Journals : IEEE Transactions, ACM Transactions, Elsevier, Springer, Wiley, Taylor & Francis, Inderscience etc.
+Research Project: Project entitled “Design and Development of a Novel Approach (non-cryptographic) for Secure Storage on External Media and Lossless Retrieval”, funded by DRDO Govt of India, completed.
+Intellectual Property Rights (IPRs):
+
+Patents : Total 8 published
+Copyrights: Four granted, two filed
+
+Books Published: Total 3
+
+Coauthor of World-famous Schaum Series Book from McGraw Hill titled “Programming with C” Byron Gottfired, USA & Jitender Kumar Chhabra. 4th Edition
+Book for learning depth of coding: ”Conceptual Programming Tips for Interviews and Competitive Exams”, McGraw Hill
+
+Ph.Ds Supervised :
+
+Completed: 6 (each with 3 or more SCI publications reputed journals)
+In progress: Two
+New Admissions: I will accept 1 candidate for PhD who is sincere, hard-working and ready for quality-work
+
+
+
+ Rajesh Kumar Aggarwal
+
+Designation:    Professor
+
+Qualification:    PhD(NIT Kurukshetra), 2014
+Email:    rka15969@gmail.com
+Phone No:    01744-233479
+Area of Interest:    Speech Processing, Machine Learning, Soft Computing, Quality Life Management, Science & Spirituality
+
+ SANJAY JAIN
+
+Designation:    Professor
+
+Qualification:    PhD  MNNIT, Allahabad
+Email:    skj.nith@gmail.com
+Phone No:    +919996127295 +919996127295
+Area of Interest:    General: Database systems, data mining,
+Database schema design, data models, database schema management, data integration, dataspace, big data.
+Data Modeling: Data models, conceptual models, semantic web, requirements engineering. Research activities: To supervise and produce high quality M Tech and PhD theses in addition to B Tech projects.
+
+ Priyanka Ahlawat
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra)
+Email:    priyankaahlawat@nitkkr.ac.in
+Phone No:    01744-233496 (Office) Phone 2 (office) : 9034996998 (mobile No.)
+Area of Interest:    Information Security, Computer Networks, Internet of Things, Wireless Sensor Networks, Cyber Security, IoT Security, Adhoc Network Security, WSN Security, Key Management and Distribution Other Areas of Interest: Cyber defense and vulnerability, Cloud Security, Mobile Computing, Digital Forsenics
+
+ Mohit Dua
+
+Designation:    Assistant Professor
+
+Qualification:    Ph.D (Computer Engineering)
+Email:    er.mohitdua@nitkkr.ac.in
+Phone No:    +91-1744-233479 +91-1744-233486 +91-9466588448
+Area of Interest:    Speech Processing, Pattern Recognition, Image Processing, Natural Language Processing, Soft Computing, Multimedia Security, Machine Learning, Image and Video Encryption
+
+ Ritu Garg
+
+Designation:    Assistant Professor
+
+Qualification:    B.Tech(CSE), M.Tech (CSE), PhD (NIT Kurukshetra)
+Email:    ritu.59@nitkkr.ac.in
+Phone No:    01744-233493, 9896114469
+Area of Interest:    Teaching Interests: Design & Analysis of Algorithms, Data Structures, Database Management System, Operating system.
+Research Interests: Cloud/Fog Computing, IoT, Soft Computing, Machine learning, Security etc
+
+ Virender Ranga
+
+Designation:    Assistant Professor (on leave)
+
+Qualification:    Ph.D. | M.Tech. | B.Tech.
+Email:    virender.ranga@nitkkr.ac.in
+Phone No:    
+Area of Interest:    Wireless Adhoc & Sensor Networks | Evolutionary Computations in Computer Networks | Machine Learning Techniques in Networking | Flying Adhoc Sensor Networks (FANeTs) | Security issues in Cloud Computing | Security issues in Internet of Things (IoTs) | Soft Computing techniques for IoT Anaytics | Security Issues in Software Defined Networking | Energy Harvesting in IoT | Internet of Robotics of Things | FoG Computing
+
+ Mantosh Biswas
+
+Designation:    Assistant Professor
+
+Qualification:    Ph.D, IIT (ISM Dhanbad)
+Email:    mantoshbiswas@nitkkr.ac.in
+Phone No:    01744-233489
+Area of Interest:    Digital Signal Processing, Digital Image Processing, Soft-Computing, Machine Learning
+
+ Vikram Singh
+
+Designation:    Assistant Professor
+
+Qualification:    Ph.D(NIT Kurukshetra), M.Tech (SC&SS, JNU, New Delhi), BTech (UIT, RGPV (Bhopal)
+Email:    viks@nitkkr.ac.in
+Phone No:    01744-233530, 88160 86589
+Area of Interest:    Teaching Interest: Database Systems, Information Science (Retrieval & Web Search), Data Science for Fourth Paradigm Computing (Big Data Analytics, etc).
+Current Research Activities: Neural Models for Interactive Information Search, Exploratory Data Analytics and Human-Information-Interaction (HII), Data Valuation for AI & ML, Soft Data Analytics (Sentiment, Micro-Emotions/Micro-expression), Social Network Science & Applications of ML/DL & AI for real-world Scenarios.
+Access ‘E-content’ (recorded lectures of two courses), ‘Information Retrieval & Web Search‘ and‘ Database Systems‘.
+> Prospective PhD aspirants may share their Brief Bio with ‘Research Interest’ for the Session 2022-23, on viks@nitkkr.ac.in.
+> Upcoming Development Programmes:
+>> 05 Days STC on ‘Medical Image Processing & Analysis (MIPA)‘, during 22-26 Feb 2023, at Computer Engg Dept., NIT Kurukshetra, IND.
+>> 05 Days STC on ‘Data Science for Intelligent System Design (DSISD)‘, during 05-09 June at Computer Engg Dept., NIT Kurukshetra, IND.
+(last updt: 27 Dec’22)
+ 
+ 
+
+ Mahendra Kumar Murmu
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra), M. Tech. (IIT(ISM) Dhanbad), B. Sc. Engg. (BIT Sindri)
+Email:    mkmurmu@nitkkr.ac.in
+Phone No:    01744-233539
+Area of Interest:    Distributed Computing, Mobile Computing, Wieless Networks, Cognitive Radio Networks
+
+ Ankit Kumar Jain
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra)
+Email:    ankitjain@nitkkr.ac.in
+Phone No:    01744-233489
+Area of Interest:    Cyber and Web Security, Mobile Security, Internet of Things, Machine Learning, DDoS Detection, Online Social Networks Analysis,
+
+ Santosh Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra) , M.Tech (CSE) NIT JALANDHAR, B.Tech (CSE) IET Lucknow
+Email:    santosh.cse@nitkkr.ac.in
+Phone No:    +91 1744-233573
+Area of Interest:    C, C++, NS2, Data Structure, Unix and Linux Programming, Wireless Ad hoc Network, Mobile Computing, Distributed Computing, and Cognitive Radio networks.
+
+ Bharati Sinha
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (Pursuing) NIT Kurukshetra, M.Tech (NIT Rourkela)
+Email:    bharatisinha@nitkkr.ac.in
+Phone No:    
+Area of Interest:    Cloud Computing, Distributed Systems
+
+ Anoop Kumar Patel
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra) | M.Tech. (MNNIT Allahabad)
+Email:    akp@nitkkr.ac.in
+Phone No:    +91 1744 233 555 +91 8950459580
+Area of Interest:    Machine Learning Image Processing Medical Imaging Algorithms and Data Structure Computational theory
+
+ Kriti Bhushan
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NIT Kurukshetra), M. Tech (NIT Rourkela)
+Email:    kritibhushan@nitkkr.ac.in
+Phone No:    01744 - 233 558
+Area of Interest:    Information Security Cloud Security Privacy Preserving in Data Publishing Computer Networks Network Security
+
+ Vijay Verma
+
+Designation:    Assistant Professor
+
+Qualification:    Ph.D.(NIT Kurukshetra) , M.Tech. (IIT Roorkee), B.Tech. (BIET Jhansi)
+Email:    vermavijay@nitkkr.ac.in
+Phone No:    01744-233479
+Area of Interest:    Data Mining, Recommender Systems, and Java Technology
+
+ Parveen Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    Ph. D.
+Email:    pkumar@nitkkr.ac.in
+Phone No:    7037227452
+Area of Interest:    Pattern Recognition and Machine Learning, Biometric, Computer Vision, Deep Learning
+
+ Krishan Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    B. Tech. (CSE) from CDLU, Sirsa | M. Tech. (CSE) & Ph. D. (CSE) from VNIT Nagpur
+Email:    kk@nitkkr.ac.in
+Phone No:    01744-233-555 (O), +91-8955-828-764 (M/W)
+Area of Interest:    Multimedia Analysis, Machine Learning, Deep Learning, Natural Language Processing, Cloud Security
+
+ Niyati Baliyan
+
+Designation:    Assistant Professor
+
+Qualification:    Ph. D. (IIT Roorkee) | Post Graduate Certificate in IT(Sheffield Hallam University,U.K. as exchange student), MTech (Gold medalist), BTech (Hons.)
+Email:    niyatibaliyan@nitkkr.ac.in
+Phone No:    +91-8800618224
+Area of Interest:    Artificial Intelligence for social good, Knowledge Engineering and Semantic Web, Applications of Machine/Deep Learning in Text Processing
+
+ Sushil Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    B.Tech(CSE), M.Tech(MANIT Bhopal), Ph. D. (IIT Roorkee)
+Email:    skumar@nitkkr.ac.in
+Phone No:    9557677251
+Area of Interest:    Experience : Worked as an Assistant Professor in the Department of Computer Science & Engineering of NIT Warangal. (From 09-April-2018 to 21-Nov-2022)
+Working on nature inspired intelligent algorithms. Applications in machine learning and image processing.
+
+ Kuldeep Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    PhD (NUS Singapore) | MTech (NIT Kurukshetra) | BTech (UIET Kurukshetra)
+Email:    kuldeepkumar@nitkkr.ac.in
+Phone No:    9461210063
+Area of Interest:    Software Engineering, Applied Machine Learning, IT Project Management, Natural Language Processing
+
+ Yogita 
+
+Designation:    Assistant Professor
+
+Qualification:    Ph.D. (IIT Roorkee)
+Email:    thakranyogita@gmail.com
+Phone No:    9646837469
+Area of Interest:    Data Science with a focus on Biological Data Analysis and Drug discovery, Text Data Mining
+
+ Lov Kumar
+
+Designation:    Assistant Professor
+
+Qualification:    Ph. D.
+Email:    lovkumar@nitkkr.ac.in
+Phone No:    8260612874
+Area of Interest:    Software Engineering, Machine Learning, Mining Software Repositories, Software Analytics, and Social Media Analytics
+
+ Neha Miglani
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech.
+Email:    neha.miglani27@gmail.com
+Phone No:    9896682220
+Area of Interest:    Automata Theory
+
+ Seema Mehla
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech.
+Email:    seemamehlakkr@gmail.com
+Phone No:    9466455874
+Area of Interest:    Software Engg.
+
+ Seema Kanyan
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech.
+Email:    cma.kanyan@gmail.com
+Phone No:    8816813647
+Area of Interest:    Software Engg.
+
+ Ruby Chauhan
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech.
+Email:    rubyyy.rana@gmail.com
+Phone No:    8708934706
+Area of Interest:    Software Engineering
+
+ Mukesh Kumar
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech.
+Email:    mk.verma113@gmail.com
+Phone No:    9996395619
+Area of Interest:    Computer Network Security
+
+ Minakshi Sharma
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    Ph.D
+Email:    minakshi.it@rediffmail.com
+Phone No:    8708285123
+Area of Interest:    Image Processing
+
+ Mamtesh 
+
+Designation:    Assistant Professor (On Contract)
+
+Qualification:    M. Tech
+Email:    mamteshnadiyan49@gmail.com
+Phone No:    8053425982
+Area of Interest:    Software Engg.
+Faculty Profile
+
+
+
+
+
+
+
+à¤¹à¤¿à¤‚à¤¦à¥€ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+HomeInstituteAbout UsAbout CityVision and MissionAdministrationVisitorNIT CouncilBoard Of GovernorsConstitutionMinutesFinance CommitteeConstitutionMinutesBuilding Works Of CommitteeConstitutionMinutesChairmanDirectorDeansHead Of DepartmentsOffice AdministrationIPR CellCVODocumentsNIT Act-2007NIT Amendment Act-2012NIT Comprehensive Act-2012First Statutes For NIT'sVision 2025 For NIT'sKakodkar Committee Report  Lokpal and Lokayukt as Act, 2013First Statutes of the National Institutes of Technology (Amendment) Statutes, 2017  Photo GalleryVideo Gallery8TH INTERNATIONAL DAY OF YOGA 2022InterviewsInstituteGolden Jubilee ConclaveNational Conference on Bio ProspectingRepublic Day 2014Institute HolidaysAcademicSenateConstitutionMinutesAcademic PortalAcademic CalenderUG ProgrammePG ProgrammeDoctoral ProgrammesDocuments & ManualsAccredited Programme(s)Refund PolicyNEW SMPC CommitteeDepartmentEngineeringApplied MechanicsCoursesFaculty ProfileResearchPublicationsLaboratoriesBiotechnologyCoursesFaculty ProfileResearchPublicationsLaboratoriesChemical EngineeringCoursesFaculty ProfileResearchPublicationsLaboratoriesCivil EngineeringCoursesFaculty ProfileResearchPublicationsLaboratoriesComputer Science & Engg.CoursesFaculty ProfileResearchPublicationsLaboratoriesList Of Ph.D StudentsElectrical EngineeringCoursesFaculty ProfileResearchPublicationsLaboratoriesDepartment WebsiteElectronics & Comm. Engg.CoursesFaculty ProfileResearchPublicationsLaboratoriesMechanical EngineeringCoursesFaculty ProfileResearch and ConsultancyPublicationsLaboratoriesIndustrial VisitsM.Tech. StudentsPh.D. AwardedExperts VisitedSciencesChemistryCoursesFaculty ProfileResearchPublicationsLaboratoriesMathematicsCoursesFaculty ProfileResearchPublicationsLaboratoriesPhysicsCoursesFaculty ProfileResearchPublicationsLaboratoriesSchool of Mgmt. StudiesCoursesFaculty ProfileResearch & PublicationsPlacementsPlacement Highlights MBA (2022)LaboratoriesSMS Information BrochureHumanities & Social ScienceCoursesFaculty ProfileResearchPublicationsLaboratoriesCells & SNFCEGIS CellCoursesFaculty ProfileResearchPublicationsLaboratoriesIII CellSNFCEHomeM.Tech. Part-TimeM.B.A. Part-TimeInternshipInfrastructureContactResearch CentersCIRCMDRCPIResearch highlightsFacilitiesLibraryCyber LibraryComputer CentreCIRHealth CentreHostelsMembers Of Wardens CouncilsHostels StructureHostel RulesHostel GalleryHostel BookletExecutive Development CenterNodal CenterIEEE@MNNITIGNOU Study CenterC-DACTransportBankingCanteenPost OfficeContact
+
+
+
+
+
+
+Notifications for B.Tech. Admissions (Session 2022-23).|MNNIT Allahabad is ranked among Top 10 CFTIs / Central University / Institute  of National Importance (Technical) in  Atal Ranking of Institutions on Innovation Achievements 2021 (ARIIA).| Institutions' Innovation Council, MNNIT Allahabad awarded Four [4] Star Ranking by Ministry of Educationâ€™s Innovation Cell (MIC) and All India Council for Technical Education (AICTE) 
+
+
+
+
+
+
+
+
+
+
+
+
+Home>Department>Engineering>Computer Science & Engg.>Faculty Profile
+
+
+
+
+
+
+
+
+
+
+
+Anti RaggingSAC PortalStudentsNoticeStudent Welfare PortalAnnual Athletic MeetAvishkarCulravYogaAchievementDocument FormatAlumni Web-portalPlacementsNIRFRTIHomeRTI Quaterly Return2022â€“20232021-20222020-212019-202018-192017-182016-172015-162014-152013-142012-132011-122010-112009-102008-092007-08Consultancy CommitteeCommittee of PIO's/FAA'sFAQSCertificate regarding the information is not traceableAudited self Appraisal Report & Certificate2021-20222020-20212019-2020TenderInstitute TenderTEQIP III Tendere-TenderWork Order to ContractorsFaculty CornerCellGrievance CellHindi CellIPR CellPublic & Media Relations CellReservation CellSC/ST CellRoving CellEqual Opportunity Cell (EOC) Women CellRecruitment RulesFacultyNon TeachingJobs @ MNNITVigilanceAnnual Property ReturnAnnual ReportCC Help DeskImportant LinksAICTECSIRDSTGovt. of IndiaIITs & NITsMagazinesMHRDTEQIPUGCNIT CouncilVirtual Classroom@MNNITVCRDownloadsInstitute and Diamond Jubilee Logo's Administration NotificationsReplies to Parliament Questions Achievements/Awards
+
+
+
+
+
+
+
+
+
+ Faculty Profile
+
+
+
+
+   
+
+ Â PrintÂ  
+
+
+
+
+
+Details
+
+
+
+							Last Updated: 19 January 2023						
+
+
+
+
+Â 
+
+
+
+
+Prof.M.M.GoreÂ Â Â Â  
+
+
+
+
+
+
+
+Designation:
+ProfessorÂ 
+
+
+Qualification:
+M.E., Ph.D.
+
+
+Area of Interest:
+Data, System, & Network centric computing
+
+
+Phone No.:
+    +91-532-2271353   (O),+91-532-2271619  (R)
+
+
+Email:
+gore@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+
+
+
+
+
+Prof. R.S.YadavÂ 
+
+
+
+
+
+
+
+Designation:
+Professor 
+
+
+Qualification:
+M.S. (Software Systems), Ph.D.
+
+
+Area of Interest:
+Real Time Systems,Fault Tolerant System, Computer Network,Distributed System
+
+
+Phone No.:
+    +91-532-2271355Â Â (O)
+
+
+Email:
+rsy@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Prof. Neeraj Tyagi
+
+
+
+
+
+
+
+Designation:
+
+Professor  
+
+
+
+Qualification:
+M.E (CSE),Â Ph.D.
+
+
+Area of Interest:
+Networking , Operating Systems
+
+
+Phone No.:
+    +91-532-2271356Â Â (O), 2271657 (R)
+
+
+Email:
+neeraj@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+
+
+
+
+
+Prof.Â D.S. Kushwaha
+
+
+
+
+
+
+
+Designation:
+
+Professor
+
+
+
+Qualification:
+M.Tech., Ph.D.
+
+
+Area of Interest:
+Distributed Systems, ServiceOriented Architecture, Software Engineering, Operating System
+
+
+Phone No.:
+    +91-532-2271358Â Â (O),+91-9415253104  Â (R)
+
+
+Email:
+dsk@mnnit.ac.inÂ , Â dharkush@yahoo.com
+
+
+Â Â View Profile  
+
+
+
+
+
+Â 
+
+
+
+
+Prof.Â Anil Kumar SinghÂ 
+
+
+
+
+
+
+
+ Designation:
+ Professor 
+
+
+ Qualification:
+PhD
+
+
+ Area of Interest:
+Database Systems,Machine Learning Data Mining, Information Retrieval, Big Data Analytics, Cloud Computing, Information Security, Semantic Web, Data Engineering,Artificial Intelligence.
+
+
+ Phone No.:
++91 532 227 1359 (O), +91 9452613200 (M)
+
+
+ Email:
+ak@mnnit.ac.in, asbhadoria@gmail.com
+
+
+ Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Prof. D.K.YadavÂ 
+
+
+
+
+
+
+
+ Designation:
+ ProfessorÂ & Head
+
+
+ Qualification:
+ B.E., M.E., PhD (IIT Bombay)
+
+
+ Area of Interest:
+Machine Learning, Blockchain Technology, Cloud Computing,Â  Information Retrieval,Â  Data Engineering,Â  Object Oriented Systems, Verification and Validation ofÂ  Systems.
+
+
+ Phone No.:
+ +91-0532- 2271361(O), +91-0532- 2271707(R),9839332380(M)
+
+
+ Email:
+ dky@mnnit.ac.in
+
+
+ Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Mr. Rajesh TripathiÂ 
+
+
+
+
+
+
+
+Designation:
+Associate Professor
+
+
+Qualification:
+B.Tech., M.Tech..
+
+
+Area of Interest:
+Mobile Computing & Networks,Computer Graphics,GIS,Computer Organization
+
+
+Phone No.:
+    +91-532-2271357  Â (O),Â +91-532-2271959(R),9452157497(M)
+
+
+Email:
+rajeshtcsed@mnnit.ac.inÂ , Â rajesjt63@gmail.com
+
+
+Â View Profile    
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Manoj WariyaÂ  Â 
+
+
+
+
+
+
+
+ Designation:
+ AssociateÂ Professor
+
+
+ Qualification:
+M.E.(CS),PhD.
+
+
+ Area of Interest:
+ Image processing, Networks, Multimedia Processing, Software Engineering,Technology Adoption.
+
+
+ Phone No.:
+ +91-532-227-1360 (R),Â +91-532-2271947(O),9453317401(M)
+
+
+ Email:
+ wairya@mnnit.ac.in
+
+
+ Â View Profile    
+
+
+
+
+
+Â 
+Â 
+
+
+
+
+Dr. Mayank Pandey
+
+
+
+
+
+
+
+Designation:
+Associate Professor
+
+
+Qualification:
+M.Tech., PhD
+
+
+Area of Interest:
+Computer Networks, P2P Computing, Formal Methods,Software Defined Networks.
+
+
+Phone No.:
++91-05322271362(R) +91-05322271955(O)
+
+
+Email:
+mayankpandey@mnnit.ac.in
+
+
+Â View Profile      
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Anoj Kumar
+
+
+
+
+
+
+
+Designation:
+Associate Professor
+
+
+Qualification:
+B.E. ,Ph.D
+
+
+Area of Interest:
+Software Testing, Software Engineering,Â Computer Graphics,Optimization.
+
+
+Phone No.:
++91-532-2271363 (O), 2271725(R)
+
+
+Email:
+anojk@mnnit.ac.in
+
+
+ID:
+ORCID-ID: 0000-0002-6409-5913,SCOPUS-ID: 57214420451
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Krishn K. MishraÂ 
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+B.E.(CSE), M.Tech(CSE),Ph.D.
+
+
+Area of Interest:
+Genetic Algorithm, Analysis of Algorithm, Automata Theory, Microprocessor ,Multi-objective Optimization.
+
+
+Phone No.:
++91-05322271365(R) +91-05322271758(O)
+
+
+Email:
+kkm@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Dr. RanvijayÂ Â 
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, PhDÂ 
+
+
+Area of Interest:
+Real Time System, Fault Tolerent Computing, Mobile Computing,Machine Learning,Computer Architecture,Visual Cryptography.
+
+
+Phone No.:
+0532-2271366(O),05322271768(R)
+
+
+Email:
+ranvijay@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Dr.Â Rupesh Kumar DewangÂ 
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, PhD 
+
+
+Area of Interest:
+Machine Learning, Data Mining, BigData, Data Science, and Cyber/Information Security,IOT,Algorithms,Computer Vision,Artificial Intelligence.
+
+
+Phone No.:
+0532-2271367----(O)
+
+
+Email:
+rupeshdewang@mnnit.ac.in
+
+
+Â View Profile      
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Pragya DwivediÂ 
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, Ph.D.
+
+
+Area of Interest:
+Machine Learning, Information Retrieval, Computational Web Intelligence
+
+
+Phone No.:
+0532-2271369----(O),8601850563(M)
+
+
+Email:
+pragyadwi86@mnnit.ac.in
+
+
+Â View Profile    
+
+
+
+
+
+Â 
+
+
+
+
+Lieutenant (Dr.)Â Divya Kumar
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, Ph.D.
+
+
+Area of Interest:
+Software Engineering, Soft Computing, Evolutionary Optimization,Machine Learning
+
+
+Phone No.:
+0532-2271370----(O),941195353(M)
+
+
+Email:
+divyak@mnnit.ac.in
+
+
+Â View Profile     
+
+
+
+
+
+Â 
+
+
+
+
+Dr.Â Dushyant Kumar SinghÂ  
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, PhD
+
+
+Area of Interest:
+Computer Vision, Image processing, Embedded Design, Machine Learning & mining in Computer vision
+
+
+Phone No.:
+0532-2271371(O), 9359133388(Mob)
+
+
+Email:
+dushyant@mnnit.ac.in
+
+
+View Profile
+
+
+
+
+
+Â 
+
+
+
+
+Dr.Â Dinesh SinghÂ  
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, PhD
+
+
+Area of Interest:
+Vehicular Ad-hoc Network, Network Security, Data Mining.
+
+
+Phone No.:
+0532-2271372 (O)
+
+
+Email:
+dinesh_singh@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Shashank Srivastava
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.S., PhD
+
+
+Area of Interest:
+Networking, Information Security, Distributed Computing,AI enabled security,Security of SDN,ICN,IOT.
+
+
+Phone No.:
+0532-2271373----(O),+91-9984905199(M)
+
+
+Email:
+shashank12@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Shashwati Banerjea
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech, Ph.D.
+
+
+Area of Interest:
+Internet of Things,Machine Learning,Artifical Intelligence,Computer Netwroks.
+
+
+Phone No.:
+0532-2271374----(O)
+
+
+Email:
+shashwati@mnnit.ac.in
+
+
+Â View Profile 
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Rajitha B
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+Ph.D.
+
+
+Area of Interest:
+Image Processing, Multimedia Processing and Medical Imaging,Computer Vision,Deep learning.
+
+
+Phone No.:
+0532-2271375----(O),+91805235544
+
+
+Email:
+rajitha@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+Â 
+
+
+
+
+Dr. Ashish Kumar Maurya
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+ M.Tech. (IIT Roorkee), Ph.D. (IIT-BHU)
+
+
+Area of Interest:
+Parallel & Distributed Computing, Cloud Computing, Design & Analysis of Algorithms,Â 
+
+
+Phone No.:
++91-7905953001(M)
+
+
+Email:
+ashishmaurya@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+
+
+
+
+
+Dr. Vibhav Prakash Singh
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+B.Tech., M.Tech., Ph.D.
+
+
+Area of Interest:
+Image Processing & Computer Vision, Data Mining, Machine Learning, Algorithm
+
+
+Phone No.:
+
++91-9452558701 (Mob.)
+
+
+
+Email:
+vibhav@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+
+
+
+
+
+Dr. J Sathish Kumar
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech., Ph.D.
+
+
+Area of Interest:
+Internet of Things (IoT), Blockchain Technology, Information Security and Privacy, UAV (Drone) Simulations and Networking
+
+
+Phone No.:
+
++91-6355998672 (Mob)
+
+
+
+Email:
+sathish613@mnnit.ac.in
+
+
+Â View Profile   
+
+
+
+
+
+
+
+
+
+
+Dr.Â Shailendra Shukla
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+Ph.D.
+
+
+Area of Interest:
+Wireless Sensor Networks, Internet of Things, Network Security,VANET,DTN.
+
+
+Phone No.:
+
+Â 8894415275(M)
+
+
+
+Email:
+ss@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+
+
+
+
+
+Dr.Â Sarsij Tripathi
+
+
+
+
+
+
+
+Designation:
+Assistant Professor
+
+
+Qualification:
+M.Tech., Ph.D.
+
+
+Area of Interest:
+
+Internet of Things (IoT) Security in Real Time SystemsWireless Sensor Network Vehicular Ad-Hoc Networks
+
+
+
+Phone No.:
+
+09589859117
+
+
+
+Email:
+sarsij@mnnit.ac.in
+
+
+Â View Profile  
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Â© 2023
+													
+														All Rights Reserved.													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIT Trichy - Faculty
+
+
+Faculty
+
+Head of the Department
+
+
+Dr. S. Mary Saira Bhanu
+Operating Systems, Distributed Systems, Real-time System, Grid Computing, Cloud Computing
+
+
+Professor (HAG)
+
+
+Dr. S. Selvakumar
+(On Lien as Director IIIT, Una, HP)
+Â Networking, Security, High Speed Networks, Distributed Computing
+
+Professors
+
+
+Dr. N. Ramasubramanian
+Computer Architecture, Digital Systems, Embedded Systems.
+
+
+Dr. C. Mala
+Data Structures and Algorithms, Computer Networks, Parallel Algorithms, Computer Architecture, UNIX OS.
+
+
+Dr. S. Mary Saira Bhanu
+Operating Systems, Distributed Systems, Real-time System, Grid Computing, Cloud Computing
+
+
+
+Dr.(Mrs.) R. Leela Velusamy
+Compiler Design, Automata and Formal Languages, Fault Tolerant Computing, Cryptography and Network security
+
+
+Associate Professors
+
+Dr.(Ms.) Rajeswari Sridhar
+Natural Language Processing, Artificial Intelligence, Machine Learning and Deep Learning, Cloud computing
+
+
+Dr. Kunwar Singh
+Cryptology, Algorithms, Data Structures, Graph Theory
+
+
+Dr. E. Sivasankar
+Data Warehousing & Data Mining, Web Technology, Database Management Systems, Big Data Analytics
+
+
+Dr. M. Sridevi
+Computer Vision & Image Processing, Computer Graphics, Parallel Processing, Soft Computing, Machine and Deep Learning
+
+
+Dr. M. Brindha
+Database Management Systems, Digital Computer Fundamentals, Image Security
+Â 
+
+Assistant Professors
+
+
+Dr. R. Mohan
+Software Engineering, Operating Systems, Distributed Systems, and Data Structures & Algorithms
+
+
+Dr. S. Jaya Nirmala
+Operating System, Computer Architecture, Cloud Computing, and Data Mining.
+
+
+Dr. B. Nithya
+Wireless Sensor Networks, Computer Networks, Network Security, Machine Learning
+
+
+Dr. B. Shameedha Begum
+Computer System and Architecture, Embedded Systems, Micro processor Real time systems
+
+
+Dr. A. Santhana Vijayan
+Semantic Web, Web Mining, Maching Learning, Ontology Engineering, Web Intelligence, Natural Language Processing, Deep Learning, Artificial Intelligence
+
+
+Dr. R. Bala Krishnan
+Text Steganography, Information Security, Network Security, Network Protocols, Android Applications, Machine Learning
+
+
+Dr. Sai Krishna Mothku
+Wireless ad-hoc networks, Wireless sensor networks and Internet of Things
+
+
+Dr. Sitara K
+Â 
+
+
+Dr. Kamalika Bhattacharjee
+Cellular Automata and Randomness
+
+
+Dr. Chandramani Chaudhary
+Multimedia Retrieval, Data Mining, Machine Learning, Information Retrieval, Big Data Analytics, Image retrieval and understanding
+
+
+Dr.Jakkepalli Pavan Kumar
+Â 
+
+
+Dr.Oswald C
+Â 
+
+
+Dr. Madhukrishna Priyadarsini
+Â 
+
+
+Dr. Usha Kiruthika S
+Â 
+
+
+
+
+WSDC | NIT Warangal
+
+
+
+
+
+
+
+
+
+
+
+Dr. S. Ravi Chandra
+Associate Professor - Computer Science And Engineering
+8702462730
+
+ravic@nitw.ac.in
+Software Engineering, Software Architecture, Design Patterns , Service Oriented Architecture...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. D V L N Somayajulu
+Professor (HAG) - Computer Science And Engineering
+91 870 2462703
+
+soma@nitw.ac.in
+Databases, Information Extraction, Query Processing,  Big Data  and Privacy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. B. B. Amberker
+Professor - Computer Science And Engineering
+9108702462704
+
+bba@nitw.ac.in
+My current focus in cryptology is on the provable security of cryptographic primitives and protocols. My interest includes,
+*	Cryptosystems and Signat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Sriram G. Sanjeevi
+Professor - Computer Science And Engineering
+08702468711
+
+sgs@nitw.ac.in,sgsanjeevi108@gmail.com
+Machine  Learning and Soft Computing;
+ Data Mining,
+Big Data Analytics,
+Software defined Networks
+Software Engineering...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. R. B. V. Subramaanyam
+Professor - Computer Science And Engineering
+949  134  6969 ,     9441 434 454
+
+rbvs66@gmail.com,rbvs66@nitw.ac.in
+Data Mining - Association Rules, Sequential Patterns, Temporal data mining, Fuzzy Data Mining, 
+Big Data Analytics ; Distributed Data Mining; Graph Da...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. P. Radha Krishna
+Professor - Computer Science And Engineering
+08702462703
+
+prkrishna@nitw.ac.in
+Data Mining, Big Data, Machine Learning, Databases and Workflow Systems....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. K. Ramesh
+Professor - Computer Science And Engineering
+9849432598
+
+kramesh@nitw.ac.in   ,    srirameesh@yahoo.com
+Serverless Architectures and Coding infrastructures in Service-oriented, Distributed, Secured Computing Environments in pursuit of Model Driven Framew...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Ch. Sudhakar
+Professor - Computer Science And Engineering
+9440647945
+
+chapram@nitw.ac.in
+Unix Internals, Advanced Operating Systems, Cloud Computing, Distributed Systems, High Performance Computing, Operating Systems...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. R. Padmavathy
+Professor - Computer Science And Engineering
+08702468738, 9440173819
+
+rpadma@nitw.ac.in
+Cryptanalysis and Network Security...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Rashmi Ranjan Rout
+Professor - Computer Science And Engineering
+08332969418
+
+rashrr@nitw.ac.in
+Mobile Computing; Wireless Ad-hoc and Sensor Networks; Online Social Networks; Cyber Physical Systems; Internet of Things; Network Security;  Cloud Co...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. T. Ramakrishnudu
+Associate Professor - Computer Science And Engineering
+9866876842
+
+trk@nitw.ac.in
+Distributed data mining., Big Data Analytics, Web Mining, Text Mining, Urban Computing, Social Media Analysis, Natural Language Processing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Raju Bhukya
+Associate Professor - Computer Science And Engineering
+9700553922, 8332969733
+
+raju@nitw.ac.in,drrajunitw@gmail.com
+Bioinformatics, Agri-Informatics, Internet of things...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. U. S. N. Raju
+Associate Professor - Computer Science And Engineering
+9440149146
+
+usnraju@nitw.ac.in
+Computer Vision and Image Processing,  Digital Olfaction....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. K. V. Kadambari
+Associate Professor - Computer Science And Engineering
+9705460461
+
+kadambari@nitw.ac.in
+computational neuroscience, Machine learning, artificial intelligence, NeuroImaging....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. P. Venkata Subba Reddy
+Associate Professor - Computer Science And Engineering
+8332969417
+
+pvsr@nitw.ac.in
+Algorithms and Graph Theory...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Priyanka Chawla
+Associate Professor - Computer Science And Engineering
+7982750652
+
+priyankac@nitw.ac.in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Manjubala Bisi
+Assistant Professor - Computer Science And Engineering
+9502940360
+
+manjubalabisi@nitw.ac.in
+Software Engineering (Software Reliability Modelling and Prediction); Machine Learning;  Soft Computing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. I. Earnest Paul
+Assistant Professor - Computer Science And Engineering
+9494466490
+
+iep@nitw.ac.in
+Visual Analytics; Video Content Analysis; Computer Vision; Deep Learning; Soft Computing; Machine Learning...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. E. Suresh Babu
+Assistant Professor - Computer Science And Engineering
+9440959713
+
+esbabu@nitw.ac.in
+Computer Networks, Wireless Networks, Mobile Ad hoc Network , Internet of Things (IoT),  Network Security...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. M. Sandhya
+Assistant Professor - Computer Science And Engineering
+9394468554
+
+msandhya@nitw.ac.in
+Biometrics
+Image Processing
+Pattern Recognition...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. M. Srinivas
+Assistant Professor - Computer Science And Engineering
+
+
+msv@nitw.ac.in
+Machine Learning;  Medical Imaging; Computer Vision; Deep Learning ;  and Sparse Representation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Ilaiah Kavati
+Assistant Professor - Computer Science And Engineering
+9848916272
+
+ilaiahkavati@nitw.ac.in
+Image Processing; Internet of Things;  Biometrics,  Security...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Sujit Das
+Assistant Professor - Computer Science And Engineering
+9434588993
+
+sujit.das@nitw.ac.in
+Fuzzy Set; Hybridized Fuzzy Soft Set; Uncertain Decision Making; Robust and Optimal Decision/Solution using Soft Computing; Evolutionary Computation, ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Sanjaya Kumar Panda
+Assistant Professor - Computer Science And Engineering
+9861126947
+
+sanjaya@nitw.ac.in
+Cloud and Fog Computing, Recommender Systems and Internet of Things...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Balaprakasa Rao Killi
+Assistant Professor - Computer Science And Engineering
+7002457102
+
+bsprao@nitw.ac.in
+Software Defined Networking.Internet of Things.Reinforcement Learning.Game Theory.Network Optimization....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Venkateswara Rao Kagita
+Assistant Professor - Computer Science And Engineering
+6281746931
+
+venkat.kagita@nitw.ac.in
+Recommender Systems; Machine Learning;  Deep Learning; Data Mining;...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Ramalingaswamy Cheruku
+Assistant Professor - Computer Science And Engineering
+9573827143
+
+rmlswamy@nitw.ac.in
+Soft Computing, Optimization, Deep Learning, ANNs, Machine Learning, Bio & nature inspired algorithms for WSNs, Data Mining, Fuzzy logic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Sangharatna Godboley
+Assistant Professor - Computer Science And Engineering
+7013306805
+
+sanghu@nitw.ac.in
+Program Analysis; Software Testing; Fuzzing; Verification; Smart Contracts; Machine Learning...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faculty | Department of Computer Science and Engineering
+
+  
+ 
+ 
+ Abdul 
+ Nazeer K A 
+  Professor 
+ nazeer@nitc.ac.in 
+ https://people.cse.nitc.ac.in/nazeer/ 
+ +91 (495) 2286818 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Amit Praseed 
+  
+ Assistant Professor (Grade II) 
+ amitpraseed@nitc.ac.in 
+ https://people.cse.nitc.ac.in/amitpraseed 
+ +91 (495) 2286846 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Anand Babu.N.B 
+  
+ Assistant Professor 
+ anandbabu@nitc.ac.in 
+ https://people.cse.nitc.ac.in/anandbabu/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Anil 
+ Pinapati 
+ Assistant Pofessor 
+ anilpinapati@nitc.ac.in 
+ https://people.cse.nitc.ac.in/anilpinapati/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Anu 
+ Mary Chacko  
+ Assistant Professor 
+ anu.chacko@nitc.ac.in 
+ https://people.cse.nitc.ac.in/achacko/ 
+ +91 (495) 2286808 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Arun Raj Kumar 
+  P 
+ Assistant Professor 
+ park@nitc.ac.in 
+ https://sites.google.com/site/park286/ 
+ +91 (495) 2286825  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Dr. A Sudarshan Chakravarthy 
+  
+ Assistant Professor 
+ sudarshan.annadanam@nitc.ac.in 
+ https://people.cse.nitc.ac.in/sudarshanch 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Dr. Manjusha  
+ K 
+ Assistant Professor 
+ manjusha@nitc.ac.in 
+ https://people.cse.nitc.ac.in/manjushak 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Gopakumar 
+ G 
+ Associate Professor 
+ gopakumarg@nitc.ac.in 
+ https://people.cse.nitc.ac.in/gopakumar/ 
+ +91 (495) 2286826 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Hiran V Nath 
+  
+ Assistant Professor 
+ hiranvnath@nitc.ac.in 
+ https://sites.google.com/site/hiranvnath/ 
+  
+  
+ 
+
+  
+Faculty | Department of Computer Science and Engineering
+
+  
+ 
+ 
+ Jay Prakash 
+  
+ Assistant Professor 
+ jayprakash@nitc.ac.in 
+ https://people.cse.nitc.ac.in/jayprakash/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Jayaraj 
+ P B 
+ Assistant Professor 
+ jayarajpb@nitc.ac.in 
+ https://people.cse.nitc.ac.in/jayaraj/ 
+ +91 (495) 2286813 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Jimmy 
+ Jose 
+ Associate Professor 
+ jimmy@nitc.ac.in 
+ https://people.cse.nitc.ac.in/jimmy/ 
+ +91 (495) 2286812 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Joe Cheri Ross 
+  
+ Assistant Professor 
+ joe@nitc.ac.in 
+ https://people.cse.nitc.ac.in/joe 
+  
+  
+ 
+
+  
+
+  
+ Laila 
+ P Daniel 
+  
+  
+  
+  
+ On leave 
+ 
+
+  
+
+  
+ 
+ 
+ Lijiya  
+ A 
+ Assistant Professor 
+ lijiya@nitc.ac.in 
+ https://people.cse.nitc.ac.in/lijiya/ 
+ +91 (495) 2286815  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Madhu Kumar  
+ S D 
+ Professor 
+ madhu@nitc.ac.in 
+ https://people.cse.nitc.ac.in/madhu/ 
+ +91 (495) 2286806 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Muralikrishnan  
+ K 
+ Associate Professor  
+ kmurali@nitc.ac.in 
+ https://people.cse.nitc.ac.in/muralikrishnan/ 
+ +91 (495) 2286805 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Pournami 
+ P N  
+ Assistant Professor 
+ pournamipn@nitc.ac.in 
+ https://people.cse.nitc.ac.in/pournami/ 
+ +91 (495) 2286824 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Prabu 
+ Mohandas 
+ Assistant Professor 
+ prabum@nitc.ac.in 
+ https://people.cse.nitc.ac.in/prabum 
+  
+  
+ 
+
+  
+Faculty | Department of Computer Science and Engineering
+
+  
+ 
+ 
+ Pranesh Das 
+  
+ Assistant Pofessor 
+ praneshdas@nitc.ac.in 
+ https://people.cse.nitc.ac.in/pranesh/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Priya  
+ Chandran 
+ Professor  
+ priya@nitc.ac.in 
+ https://people.cse.nitc.ac.in/priya/ 
+ +91 (495) 2286804 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Raju Hazari 
+  
+ Assistant Pofessor 
+ rajuhazari@nitc.ac.in 
+ https://people.cse.nitc.ac.in/rajuhazari/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Renjith 
+ P 
+ Assistant Professor 
+ renjith@nitc.ac.in 
+ https://people.cse.nitc.ac.in/renjithp 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ S 
+  Sheerazuddin 
+ Assistant Professor 
+ sheeraz@nitc.ac.in 
+ https://sheerazuddins.github.io/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Saidalavi  
+ Kalady 
+ Associate  Professor 
+ said@nitc.ac.in 
+ https://people.cse.nitc.ac.in/saidalavi/ 
+ +91 (495) 2286800 ,+91 (495) 2286809  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Saleena  
+ N 
+ Associate Professor   
+ saleena@nitc.ac.in 
+ https://people.cse.nitc.ac.in/saleena/ 
+ +91 (495) 2286807  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Sreenu 
+ Naik Bhukya 
+ Assistant Professor 
+ bsnaik_81@nitc.ac.in 
+ https://people.cse.nitc.ac.in/sreenunaikbukya/ 
+ +91 (495) 2286817 
+  
+ 
+
+  
+
+  
+ Srinivasa  
+ T M 
+ Assistant Professor 
+ srini_2007@nitc.ac.in 
+ http://people.cse.nitc.ac.in/srinivasa/ 
+  
+  
+ 
+
+  
+
+  
+ 
+ 
+ Subashini  
+ R 
+ Associate Professor 
+ suba@nitc.ac.in 
+ https://people.cse.nitc.ac.in/subhashini/ 
+ +91 (495) 2286820 
+  
+ 
+
+  
+Faculty | Department of Computer Science and Engineering
+
+  
+ 
+ 
+ Subhasree  
+ M 
+ Associate Professor and Head 
+ subha@nitc.ac.in 
+ https://people.cse.nitc.ac.in/subha/ 
+ +91 (495) 2286810 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Sumesh  
+ T A 
+ Assistant Professor 
+ sumesh@nitc.ac.in 
+ https://people.cse.nitc.ac.in/sumeshta/ 
+ +91 (495) 2286814  
+  
+ 
+
+  
+
+  
+ 
+ 
+ T. Veni 
+  
+ Assistant Professor 
+ veni@nitc.ac.in 
+ https://sites.google.com/nitc.ac.in/veni 
+ 0495-2286819 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Vasudevan A. R. 
+  
+ Assistant Professor 
+ vasudevanar@nitc.ac.in 
+ https://people.cse.nitc.ac.in/vasudevanar/ 
+ 0495-2286831 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Vineeth 
+ Paleri 
+ Professor 
+ vpaleri@nitc.ac.in 
+ https://people.cse.nitc.ac.in/vpaleri/ 
+ +91 (495) 2286802 
+  
+ 
+
+  
+
+  
+ 
+ 
+ Vinod  
+ Pathari 
+ Associate Professor 
+ pathari@nitc.ac.in 
+ https://sites.google.com/nitc.ac.in/pathari 
+ +91 (495) 2286803 
+  
+ 
+
+  
+Department of Computer Science & Engineering (People)
+
+
+
+Â Â 
+                      Faculty
+
+
+Head of Department
+
+
+
+
+
+
+Dr. Dinesh  Gopalani
+ Associate Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.E.(CSE)
+Research Interests : Theoretical Computer Science, Compilers And Programing Languages, Aspect Oriented Systems, Formal Theory Of Programming Languages, Natural Language Processing.
+ dgopalani.cse@mnit.ac.in
+ 01412713430
+ View Detailed Profile 
+ Google Scholar Profile 
+
+ 
+
+Professor-HAG
+
+
+
+
+
+Prof. Mahesh Chandra Govil (On Deputation)
+ Professor-HAG
+ Ph.D.(Computer Science & Technology),M.Tech.(Computer Science & Technology),B.E.(Electrical Engineering)
+Research Interests : Real Time Systems, Parallel & Distributed Systems, Fault Tolerant Systems, Cloud Computing.
+ govilmc@yahoo.com
+ 01412713418
+ View Detailed Profile 
+
+
+
+
+
+
+
+Prof. Manoj Singh Gaur (On Deputation)
+ Professor-HAG
+ Ph.D.,M.E.(CSE),B.E.(ECE)
+Research Interests : Network Security, Embedded Systems, Information Security, Computer Networks, Multi-Core And Cloud Computing.
+ gaurms@gmail.com
+ 911412713227
+ View Detailed Profile 
+
+
+ 
+Professor
+
+
+
+
+
+Prof. Girdhari  Singh
+ Professor
+ Ph.D.(Computer Engineering),B.E.(Computer Engineering)
+Research Interests : Software Engg., Intelligent Systems.
+ gsingh.cse@mnit.ac.in
+ 01412713384
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Prof. Vijay Laxmi 
+ Professor
+ Ph.D.,M.Tech.(CSE),B.E.(ECE)
+Research Interests : Information Security, Machine Vision, Embedded Systems, Multi-Core And Cloud Computing.
+ vlaxmi@mnit.ac.in
+ 01412713127
+ View Detailed Profile 
+ Google Scholar Profile 
+
+ 
+Associate Professor
+
+
+
+
+
+Dr. Meenakshi  Tripathi
+ Associate Professor
+ Ph.D.(CSE (Wireless Sensor Network Security)),M.Tech.(CSE),B.E.(CSE)
+Research Interests : Secure Routing In Wireless Sensor Networks, Network Security, Wireless Sensor Networks, Wireless Ad hoc Networks, Opportunistic Networks, Software Defined Networks, Blockchain, Cyber Security, Information Security, Internet of Things.
+ mtripathi.cse@mnit.ac.in
+ 01412713419
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Mushtaq  Ahmed
+ Associate Professor
+ Ph.D.(Computer Engg.),B.E.(Computer Engg.)
+Research Interests : Network on Chip , Computer Networks, Embedded Systems, Multi-Core And Cloud Computing, Wireles Sensor Networks, Fault Tolerant Systems, High speed Overlay Networking,.
+ mahmed.cse@mnit.ac.in
+ 01412713361
+ View Detailed Profile 
+ Google Scholar Profile  BibBase Profile  Personal Website 
+
+
+
+
+
+
+Dr. Namita  Mittal
+ Associate Professor
+ Ph.D.(Computer Engineering),M. Tech.(Data Science and Engineering)
+Research Interests : Information Retrieval, Data Mining, Natural Language Processing, Machine Learning, Data Science.
+ nmittal.cse@mnit.ac.in
+ 01412713324
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Neeta  Nain
+ Associate Professor
+ Ph.D.
+Research Interests : Image Processing, Pattern Recognition, Computer Graphics, Machine Learning, Deeplearning.
+ nnain.cse@mnit.ac.in
+ 01412713285
+ View Detailed Profile 
+ Google Scholar Profile  BibBase Profile  Personal Website 
+
+
+
+
+
+
+Dr. Pilli Emmanuel Shubhakar
+ Associate Professor
+ Ph.D.(CSE),M. Tech.(CSE),B.Tech.(ECE)
+Research Interests : Security, Privacy and Forensics, Cloud Computing, Big Data, Internet of Things, Blockchain, Quantum Computing.
+ espilli.cse@mnit.ac.in
+ 01412713376
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Yogesh Kumar Meena
+ Associate Professor
+ Ph.D.,M.Tech.,B.Tech.
+Research Interests : Natural Language Processing, Information Retrieval, Data Mining, Neural Networks.
+ ymeena.cse@mnit.ac.in
+ 01412713420
+ View Detailed Profile 
+ Google Scholar Profile 
+
+ 
+Assistant Professor
+
+
+
+
+
+Dr. Arka Prokash  Mazumdar
+ Assistant Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.E.(Information Technology)
+Research Interests : Computer Networks, Wireless Sensor Networks, Wireless Ad hoc Networks, Opportunistic Networks, Internet of Things, Intelligent Transportation Systems.
+ apmazumdar.cse@mnit.ac.in
+ 01412713452
+ View Detailed Profile 
+ Google Scholar Profile  BibBase Profile  Personal Website 
+
+
+
+
+
+
+Dr. Ashish Kumar Tripathi
+ Assistant Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.Tech.(CSE)
+Research Interests : Big Data, Soft computing techniques, Data Clustering, Machine Learning.
+ ashish.cse@mnit.ac.in
+ 014199998651
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Dr. Deepak Ranjan Nayak
+ Assistant Professor
+ Ph.D.(CSE),M. Tech.(CSE),B .Tech.(CSE),PostDoc(CSE)
+Research Interests : Medical Image Analysis, Machine Learning, Deep Learning, Pattern Recognition, Computer Vision, Hyperspectral Image Analysis.
+ drnayak.cse@mnit.ac.in
+
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Dinesh Kumar Tyagi
+ Assistant Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.E.(CSE)
+Research Interests : Computer Networks, WDM Networks, Intelligence at  Edge Networks, Nature Inspired Algorithms , Blockchain, Internet of Things.
+ dktyagi.cse@mnit.ac.in
+ 01412713571
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Dr. Jyoti  Grover
+ Assistant Professor
+ Ph.D.(CSE)
+Research Interests : Wireless Ad Hoc Networks, Vehicular Networks, Software Defined Networks, Internet of Things, Network Security, Machine Learning for Networking.
+ jgrover.cse@mnit.ac.in
+ 01412713479
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Dr. Lavika  Goel
+ Assistant Professor
+ Ph.D.(Computer Engineering),M.E.(Computer Tech. & Applications),B.Tech.(Computer Sc. & Engg.)
+Research Interests : Artificial Intelligence, Bio And Nature Inspired Algorithms, Computational Intelligence, Evolutionary Computing, Intelligent Systems, Machine Learning, Optimization, Remote sensing, Image processing and pattern recognition.
+ lavika.cse@mnit.ac.in
+ 01412713405
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Dr. Mahipal  Jadeja
+ Assistant Professor
+ Ph.D.(CSE),B.E.(CSE)
+Research Interests : Theoretical Computer Science, Graph Theory, Algorithms, Information Visualisation, Graph Visualisation, Machine Learning on Graphs, Social Network Analysis, Graph Neural Networks.
+ mahipaljadeja.cse@mnit.ac.in
+
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Ramesh Babu Battula
+ Assistant Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.Tech.(IT )
+Research Interests : Information Security, Secure Communication, Next Generation (xG) Networks, Computer Security, Intelligent Communication and Networks (5G and Beyond 5G).
+ rbbattula. cse@mnit.ac.in
+ 01412713497
+ View Detailed Profile 
+ Google Scholar Profile  Personal Website 
+
+
+
+
+
+
+Dr. Santosh Kumar Vipparthi -on Lien
+ Assistant Professor
+ Ph.D.(Systems Engineering ),M.Tech.(Honours-Systems Engineering ),B.E.(Andhra University)
+Research Interests : Image Processing, Pattern Recognition, Machine Learning, Deep Learning, Computer Vision, Artificial intelligence, Video Processing.
+ skvipparthi@iitrpr.ac.in
+ 01412713435
+ View Detailed Profile 
+ Google Scholar Profile  BibBase Profile  Personal Website 
+
+
+
+
+
+
+Dr. Satyendra Singh Chouhan
+ Assistant Professor
+ Ph.D.(CSE ),M.Tech.(CSE ),B.E.(IT)
+Research Interests : Artificial Intelligence , Machine Learning, AI Planning, Natural Language Processing, Deep Learning.
+ sschouhan.cse@mnit.ac.in
+ 01412713283
+ View Detailed Profile 
+ Google Scholar Profile 
+
+
+
+
+
+
+Dr. Smita  Naval
+ Assistant Professor
+ Ph.D.(CSE),M.Tech.(CSE),B.E.(CSE)
+Research Interests : Information Security, Malware Analysis, Privacy Breach, Pattern Recognition, Machine Learning.
+ smita.cse@mnit.ac.in
+
+ View Detailed Profile 
+ Google Scholar Profile 
+
+ 
+
+
+
+
+Â Â 
+                      Staff
+
+
+
+
+
+
+Mr. Mohan Ram Choudhary
+ Technical Assistant (SG-II)
+ MSc (Computer Science), MIEE
+ Expertise :Data Centre Administration, Cloud Computing & Virtualization. 
+ mohan.ccc@mnit.ac.in
+
+
+
+
+
+
+Mr. Arun Kumar Sharma
+ Senior Technician
+ B.Tech. in ECE, M.Tech. in VLSI
+ Expertise :Digital System Lab, Microprocessor Lab, IOT & Real Time Embedded System Lab 
+ arunsharma.ece@mnit.ac.in
+
+
+
+
+
+
+Ms. Laxmi Meena
+ Senior Technician
+ B.Tech(CSE), M.Tech (CSE)
+ Expertise :Database Management System, Computer Networking 
+ laxmi.acad@mnit.ac.in
+
+
+
+
+
+
+Mr. Sanjay Kumar Bhaskar
+ Senior Technician
+ MCA, Diploma
+ bhaskarsanjay.cse@mnit.ac.in
+
+
+
+
+
+
+Mr. Arun Kumar
+ Technician
+ Diploma
+ Expertise :Computer Networking Lab 
+ arun.cse@mnit.ac.in
+
+
+
+
+
+
+Mr. Devesh Kumar Sharma
+ Technician
+ B.Tech. IT,M.Tech.CSE
+ Expertise :Data Science(Data Mining and AI). 
+ deveshkumarsharma@mnit.ac.in
+
+
+
+
+
+
+Mr. Kautilya Bhardwaj
+ Technician
+ Diploma
+ Expertise :ISEA LAB 
+ kautilya.cse@mnit.ac.in
+
+
+
+
+
+
+Mr. Rohan Sharma
+ Technician
+ Senior Secondary Science
+ Expertise :Computer Hardware, SQL 
+ rohansharma@mnit.ac.in
+
+
+
+
+
+
+Mr. Sajjan Ram
+ Junior Assistant
+ Senior Secondary
+ sajjanram.cse@mnit.ac.in
+
+ 
+
+
+
+
+Â Â  Research Scholars
+
+
+
+
+
+
+Ms. Ritu Rai
+ 2021RCP9552
+ M.Tech, B.Tech
+ Research Interests :Network Security 
+ Supervisors :Dr.Jyoti Grover 
+ 2021rcp9552@mnit.ac.in
+
+
+
+
+
+
+Ms. Sujata Gudge
+ 2021RCP9551
+ M.E., B.E.
+ Research Interests :Natural Language Processing 
+ Supervisors :Dr. Namita Mittal, Dr. Ashish Kumar Tripathi 
+ 2021rcp9551@mnit.ac.in
+
+
+
+
+
+
+Mr. Shubham Tomar
+ 2021RCP9550
+ M.Tech, B.Tech
+ Research Interests :Blockchain, Network Security, IoT 
+ Supervisors :Dr. Meenakshi Tripathi 
+ 2021RCP9550@mnit.ac.in
+
+
+
+
+
+
+Mr. Sachin Gupta
+ 2021RCP9549
+ M.Tech, B.Tech
+ Research Interests :Deep Learning, Machine Learning 
+ Supervisors :Dr. Ashish Kumar Tripathi 
+ 2021rcp9549@mnit.ac.in
+
+
+
+
+
+
+Mrs. Aditi Seetha
+ 2021RCP9548
+ M.E. , B.E
+ Research Interests :Machine Learning, Deep Learning 
+ Supervisors :Dr. Satyendra Singh Chouhan
+Dr. Pilli Emmanuel Shubhakar 
+ 2021RCP9548@mnit.ac.in
+
+
+
+
+
+
+Mr. Sandeep Kumar Jangir
+ 2021RCP9546
+ M.tech, B.E.
+ Research Interests :Blockchain 
+ Supervisors :Dr. Dinesh Gopalani, Dr. Ramesh babu Battula 
+ 2021RCP9546@mnit.ac.in
+
+
+
+
+
+
+Mrs. SIDDHI KUMARI SHARMA
+ 2021RCP9037
+ UGC NET QUALIFIED, GATE QUALIFIED, MTECH, BTECH
+ Research Interests :NATURE INSPIRED ALGORITHMS 
+ Publications :SPRINGER SOCPROUS CONFRENCE 2016
+ Supervisors :SUPERVISOR- DR. LAVIKA GOEL
+CO SUPERVISOR- DR. NAMITA MITTAL 
+ 2021RCP9037@MNIT.AC.IN
+
+
+
+
+
+
+Mr. Praveen Singh Thakur
+ 2021RCP9036
+ Research Interests :Imbalance Learning, Machine Learning 
+ Supervisors :Dr. Mahipal Jadeja, Dr. Satyendra Singh Chouhan 
+ 2021RCP9036@mnit.ac.in
+
+
+
+
+
+
+Ms. Babita
+ 2021RCP9035
+ M.Tech B.Tech
+ Research Interests :Medical Image Analysis, Machine Learning, Deep Learning, Image Processing 
+ Publications :Conference (International  -02)
+ Supervisors :Dr. Deepak Ranjan Nayak 
+ 2021rcp9035@mnit.ac.in
+
+
+
+
+
+
+Mr. Ankit Pulkit
+ 2020RCP9585
+ M. Tech. CS IS, B. Tech. CSE
+ Research Interests :Information Security, Side and Covert Channels, Privacy Breach, Vulnerabilities, Web Development and Security 
+ Supervisors :Dr. Smita Naval, Prof. Vijay Laxmi 
+ 2020rcp9585@mnit.ac.in
+
+
+
+
+
+
+Ms. Karishma Yadav
+ 2020RCP9584
+ M.Tech
+ Research Interests :Blockchain Security, Information Security 
+ Supervisors :Dr. Smita Naval 
+ 2020rcp9584@mnit.ac.in
+
+
+
+
+
+
+Ms. Jyoti Nagpal
+ 2020rcp9583
+ M.Tech. , B.Tech.
+ Research Interests :Machine Learning, Deep Learning, Nature Inspired Optimization 
+ Supervisors :Dr. Lavika Goel 
+ 2020rcp9583@mnit.ac.in
+
+
+
+
+
+
+Mr. Dinesh Kumar Khunteta
+ 2020RCP9581
+ M.Tech.,B.E.
+ Research Interests :Compiler, Information Security, Cyber Security & Forensics, IOT Security 
+ Publications :Conference (International - 2), Journal(International:01)
+ Supervisors :Dr. Meenakshi Tripathi 
+ 2020RCP9581@MNIT.AC.IN
+
+
+
+
+
+
+Mr. Prafulla Saxena
+ 2020rcp9580
+ M.Tech, B.Tech.
+ Research Interests :Computer vision, Machine Learning, Video Analytics, Change detection, Segmentation, Facial Expression 
+ Supervisors :Dr. Santosh kumar Vipparthi, Dr. Dinesh Kumar Tyagi 
+ 2020rcp9580@mnit.ac.in
+
+
+
+
+
+
+Mr. Kushall Pal Singh
+ 2020RCP9579
+ B.Tech, M.Tech
+ Research Interests :Federated Machine Learning, Intelligent Edge Computing 
+ Supervisors :Dr. Dinesh Kumar Tyagi/ Dr. Santosh Kumar Vipparthi 
+ 2020rcp9579@mnit.ac.in
+
+
+
+
+
+
+Mr. ABHISHEK UPADHYAY
+ 2020RCP9578
+ M.TECH, B.TECH
+ Research Interests :DATA MINING, NATURAL LANGUAGE PROCESSING 
+ Supervisors :DR. YOGESH KUMAR MEENA 
+ 2020RCP9578@MNIT.AC.IN
+
+
+
+
+
+
+Ms. Aishwarya Mishra
+ 2020RCP9049
+ B .Tech , M.Tech
+ Research Interests :Evolutionary Computing, Nature Inspired Optimization 
+ Supervisors :Dr. Lavika Goel 
+ 2020rcp9049@mnit.ac.in
+
+
+
+
+
+
+Mr. Vivek Sharma
+ 2020rcp9048
+ M.Tech, B.E.
+ Research Interests :Deep Learning, Machine learning, Computer Vision,  Agricultural Applications 
+ Publications :Journals: 07,
+International Conference: 12,
+SCI Journal: 01
+ Supervisors :Dr. Ashish Kumar Tripathi/ Dr. Himanshu Mittal 
+ 2020rcp9048@mnit.ac.in
+
+
+
+
+
+
+Ms. Geetanjali Singh
+ 2019RCP9552
+ M.Tech, B.Tech
+ Research Interests :Natural Language Processing, Deep Learning 
+ Publications :Journal(01), Conference(01)
+ Supervisors :Dr. Namita Mittal, Dr. Satyendra Singh Chouhan 
+ 2019rcp9552@mnit.ac.in
+
+
+
+
+
+
+Mr. Pawankumar Balkishan Lahoti
+ 2019RCP9544
+ M.E., MBA, B.Tech
+ Research Interests :Natural Language Processing, Information Retrieval 
+ Supervisors :Dr. Namita Mittal, Dr. Girdhari Singh 
+ 2019rcp9544@mnit.ac.in
+
+
+
+
+
+
+Ms. Richa Kumari
+ 2019RCP9531
+ MTech CSE, BTech CSE
+ Research Interests :Network Security, IoT Data Security 
+ Publications :Conference (International-02)
+ Supervisors :Dr. Dinesh Kumar Tyagi 
+ 2019rcp9531@mnit.ac.in
+
+
+
+
+
+
+Mr. RAVINDRA KUMAR SONI
+ 2019RCP9159
+ M.Tech, B.Tech
+ Research Interests :Machine Learning, Deep Learning 
+ Supervisors :Dr. Neeta Nain 
+ 2019RCP9159@mnit.ac.in
+
+
+
+
+
+
+Mr. Gauransh Kalla
+ 2019RCP9110
+ M.Tech(CSE), B.Tech(CSE)
+ Research Interests :Networking, Wireless Sensor Networks 
+ Supervisors :Dr. Arka Prokash Mazumdar, Dr. Dinesh Kumar Tyagi 
+ 2019rcp9110@mnit.ac.in
+
+
+
+
+
+
+Mr. Atul Kumar Verma
+ 2019RCP9050
+ M.Tech, B.Tech
+ Research Interests :Social Networks Analysis, Machine Learning, and Graph Algorithms 
+ Supervisors :Dr. Mahipal Jadeja 
+ 2019rcp9050@mnit.ac.in
+
+
+
+
+
+
+Ms. Rukhsar Sultana
+ 2019RCP9045
+ M.Tech CSE, B.Tech CSE
+ Research Interests :Vehicular Ad Hoc Network, Software Defined Network, Cognitive Radio Network, Network Security 
+ Publications :Journal (International- 01), Conference (International-02)
+ Supervisors :Dr. Jyoti Grover, Dr. Meenakshi Tripathi 
+ 2019rcp9045@mnit.ac.in
+
+
+
+
+
+
+Mr. Jitendra Parmar
+ 2019RCP9044
+ MTech.
+ Research Interests :Machine Learning, Artificial Intelligence, Deep Learning, NLP 
+ Supervisors :Dr. Satyendra Singh Chouhan 
+ 2019rcp9044@mnit.ac.in
+
+
+
+
+
+
+Mr. Gopal Behera
+ 2019rcp9002
+ M.Tech
+ Research Interests :Machine Learning, Deep Learning, Recommender System 
+ Supervisors :Dr. Neeta Nain 
+ 2019rcp9002@mnit.ac.in
+
+
+
+
+
+
+Mr. Kuldeep M Biradar
+ 2018rcp9503
+ M. Tech, B.E
+ Research Interests :Anomaly detection, Object detection, Haze removal, Image Processing, Computer Vision, Deep Learning 
+ Supervisors :Dr. Santosh Kumar Vipparthi 
+ 2018rcp9503@mnit.ac.in
+
+
+
+
+
+
+Mr. Prem Shanker Yadav
+ 2018RCP9157
+ M.Tech, B.Tech
+ Research Interests :Image Captioning & Visual Question Answering 
+ Supervisors :Dr. Santosh Kumar Vipparthi 
+ 2018rcp9157@mnit.ac.in
+
+
+
+
+
+
+Mr. Anil Kumar Prajapati
+ 2018RCP9156
+ M.Tech, B.E.
+ Research Interests :Internet of Things Security 
+ Supervisors :Dr. Ramesh Babu Battula, Dr. Pilli Emmanuel Shubhakar 
+ 2018RCP9156@mnit.ac.in
+
+
+
+
+
+
+Ms. MEGHA SHARMA
+ 2018RCP9099
+ M.Tech., B.Tech.
+ Research Interests :Demand Response Management, Smart Grid, Load Forecasting 
+ Supervisors :Dr. NAMITA MITTAL 
+ 2018rcp9099@mnit.ac.in
+
+
+
+
+
+
+Mr. Lakshminarayana Sadineni
+ 2018RCP9083
+ MS, B.Tech, Diploma
+ Research Interests :IoT, IoT Forensics, IoT Security, Fog Computing and Cloud Computing 
+ Publications :Journal (International -1), Conference (International - 1)
+ Supervisors :Dr. Pilli Emmanuel Shubhakar/Dr. Ramesh Babu Battula 
+ 2018rcp9083@mnit.ac.in
+
+
+
+
+
+
+Mr. Jitendra Goyal
+ 2018RCP9080
+ M.Tech., B.Tech.
+ Research Interests :Blockchain Technology, IoT, GeoSpatial Technology, Computer Networking 
+ Supervisors :Dr. Mushtaq Ahmed/ Dr. Dinesh Gopalani 
+ 2018rcp9080@mnit.ac.in
+
+
+
+
+
+
+Mr. Virendra Kumar Meghwal
+ 2018RCP9061
+ M.Tech., B.Tech.
+ Research Interests :Image Captioning, Deep Learning 
+ Publications :Conference (National-00, International-01)
+ Supervisors :Dr. Namita Mittal / Dr. Girdhari Singh 
+ 2018RCP9061@mnit.ac.in
+
+
+
+
+
+
+Mr. Abhishek Narwaria
+ 2018RCP9013
+ M.Tech, B.E.
+ Research Interests :Software-Defined Wireless Sensor Network 
+ Publications :Conferance (International - 01)
+ Supervisors :Dr. Arka Prokash Mazumdar 
+ 2018rcp9013@mnit.ac.in
+
+
+
+
+
+
+Mr. Sachin Dube
+ 2017rcp9069
+ M. Tech, B. Tech
+ Research Interests :Anomaly Detection, Computer Vision, Image Processing, Machine Learning, Deep Learning 
+ Supervisors :Dr. Santosh Kumar Vipparthi 
+ 2017rcp9069@mnit.ac.in
+
+
+
+
+
+
+Mr. Saurabh Ranjan Srivastava
+ 2017RCP9054
+ M.Tech., B.E.
+ Research Interests :Soft Computing, Information Retrieval, Data Mining 
+ Publications :Journals (International - 01), Conferences (International - 03)
+ Supervisors :Dr. Yogesh Kumar Meena / Dr. Girdhari Singh 
+ 2017RCP9054@mnit.ac.in
+
+
+
+
+
+
+Ms. Monu Verma
+ 2017RCP9029
+ M. Tech, B. Tech
+ Research Interests :Facial Expression Recognition, Computer Vision, Image Processing, Deep Learning, Machine Learning, Human Computer Interaction, Hand Gesture Recognition 
+ Supervisors :Dr. Santosh Kumar Vipparthi/Prof. Girdhari Singh 
+ 2017RCP9029@mnit.ac.in
+
+
+
+
+
+
+Mr. Avuthu Avinash Reddy
+ 2017RCP9014
+ M.Tech
+B.Tech
+ Research Interests :Cognitive Radio Networks, Internet of Things, 5G 
+ Supervisors :Dr. Ramesh Babu Battula, Dr. Dinesh Gopalani 
+ 2017RCP9014@mnit.ac.in
+
+
+
+
+
+
+Ms. Anamika Satrawala
+ 2016RCP9518
+ M.Tech, B. Tech.
+ Research Interests :Internet of Things(IoT), Internet of Vehicles(IoV) 
+ Supervisors :Dr. Arka Prokash Mazumdar, Dr. Santosh Kumar Vipparthi 
+ 2016RCP9518@mnit.ac.in
+
+
+
+
+
+
+Mr. PRAVEEN KUMAR CHANDALIYA
+ 2016RCP9511
+ M.Tech, B.Tech
+ Research Interests :Computer Vision, Age Invariant Face Recognition, Generative Model, Biometrics 
+ Publications :Conference-6, SCI Journal-3
+ Supervisors :Dr. Neeta Nain 
+ 2016RCP9511@mnit.ac.in
+
+
+
+
+
+
+Ms. Shweta Saharan
+ 2015RCP9533
+ M. Tech, B. Tech
+ Research Interests :Cloud Computing, Information Security, Secure Storage and Computation, Virtualization 
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Vijay Laxmi 
+ 2015RCP9533@mnit.ac.in
+
+
+
+
+
+
+Ms. Riti Kushwaha
+ 2015RCP9526
+ PhD, M.Tech, B.Tech
+ Research Interests :Biometric, Pattern Recognition, Machine Learning, Deep Learning 
+ Publications :SCI Journal - 2
+Journal - 2
+Conference - 5
+ Supervisors :Dr. Neeta Nain 
+ 2015rcp9526@mnit.ac.in
+
+
+
+
+
+
+Mr. Murari Mandal
+ 2015rcp9525
+ M. Tech, B. Tech
+ Research Interests :Change Detection, Moving Object Detection, Facial Expression Recognition, Image Processing, Computer Vision, Deep Learning, Machine Learning 
+ Supervisors :Dr. Santosh Kumar Vipparthi 
+ 2015rcp9525@mnit.ac.in
+
+
+
+
+
+
+Ms. TANVI CHAWLA
+ 2015RCP9023
+ M.Tech, B.Tech
+ Research Interests :Semantic Web, Big Data 
+ Publications :Conferece (International - 4)
+ Supervisors :Prof. Girdhari Singh. Dr. Emmanuel S. Pilli 
+ 2015RCP9023@mnit.ac.in
+
+
+
+
+
+
+Mr. Vinesh Kumar Jain
+ 2015RCP9019
+ PhD, Pursuing, M.Tech, BE
+ Research Interests :Internet of Things, Security 
+ Publications :(02),(05)
+ Supervisors :Dr. Arka Prokash Mazumdar/ Prof Mahesh Chandra Govil 
+ 2015rcp9019@mnit.ac.in
+
+
+
+
+
+
+Mr. Anand Kumar Mishra
+ 2013RCP9529
+ M.Tech, B.Tech
+ Research Interests :Cloud Security, Cloud Forensics, Virtualization and Containerization Model 
+ Publications :Conference(International-06)
+ Supervisors :Prof. Mahesh Chandra Govil, Dr. Pilli Emmanuel Shubhakar 
+ 2013RCP9529@mnit.ac.in
+
+ 
+
+
+
+
+Â Â 
+                      PhD Awarded
+
+
+
+
+
+
+Dr. Chauhan Sameersingh Ashoksingh
+ 2015RCP9008
+ Thesis Title :An Efficient Broker based Framework for Federated Cloud 
+ Supervisors :Dr. Pilli Emmanuel Shubhakar 
+ Year of Award :2021 
+ 2015RCP9008@mnit.ac.in 
+
+
+
+
+
+
+Ms. Avani Sharma
+ 2014RCP9513
+ Thesis Title :Efficient Trust Management Schemes for Internet of Things 
+ Supervisors :Dr. Pilli Emmanuel Shubhakar, Dr. Arka Prokash Mazumdar 
+ Year of Award :2021 
+ 2014rcp9513@mnit.ac.in 7597930499
+
+
+
+
+
+
+Dr. Mithlesh Arya
+ 2015RCP9040
+ PhD, M-tech, B.E., 12th, 10th
+ Thesis Title :Cervical Cancer Detection using PapSmear Images by Machine Learning techniques 
+ Publications :Journal (International: 3), Conference (International: 3)
+ Supervisors :Dr. Namita Mittal, Prof. Girdhari Singh 
+ Year of Award :2020 
+ 2015rcp9040@mnit.ac.in 9413942204
+
+
+
+
+
+
+Dr. Sonu Lamba
+ 2015RCP9003
+ Ph.D
+ Supervisors :Dr. Neeta Nain 
+ Year of Award :2019 
+ lamba.sonu5@gmail.com 9887704641
+
+
+
+
+
+
+Dr. Vijay Kumar Sharma
+ 2014RCP9541
+ Ph.D
+ Thesis Title :Query Translation and Disambiguation Approaches For Cross-Lingual Information Retrieval 
+ Supervisors :Dr. Namita Mittal 
+ Year of Award :2019 
+ sharmavijaykumar55@gmail.com 9784911021
+
+
+
+
+
+
+Dr. Maninder Singh Nehra
+ 2013RCP9553
+ Ph.D
+ Thesis Title :Devnagari Handwritten Text Corpus Development and part of Speech Tagging 
+ Supervisors :Dr. Neeta Nain, Dr. Mushtaq Ahmed 
+ Year of Award :2019 
+ maninder4unehra@yahoo.com 9414804769
+
+
+
+
+
+
+Dr. Maheep Singh
+ 2014RCP9067
+ Ph.D
+ Thesis Title :Salient Object Detection in both Clean and Noisy Images 
+ Supervisors :Prof. M. C. Govil, Dr. Pilli Emmanuel Shubhakar 
+ Year of Award :2019 
+ maheep.singh14@gmail.com 9411293327
+
+
+
+
+
+
+Dr. Abhishek Singh Kilak
+ 2012RCP9516
+ Ph.D
+ Supervisors :Dr. Namita Mittal 
+ Year of Award :2019 
+ abhishekkilak@gmail.com 9828442121
+
+
+
+
+
+
+Dr. Ajay Nehra
+ 2014RCP9553
+ Ph.D
+ Supervisors :Dr. Meenakshi Tripathi 
+ Year of Award :2019 
+ ajay.nehra@ntnu.no 4794717343
+
+
+
+
+
+
+Dr. Sonal Yadav
+ 2013RCP9006
+ Ph.D
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Vijay Laxmi 
+ Year of Award :2019 
+ sonaldv4@gmail.com 9785999900
+
+
+
+
+
+
+Dr. Ashish Sharma
+ 2013RCP9515
+ Ph.D
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Lava Bhargava 
+ Year of Award :2019 
+ 2013rcp9515@mnit.ac.in 9694945550
+
+
+
+
+
+
+Dr. Kunwar Pal
+ 2013RCP9568
+ Ph.D
+ Supervisors :Prof. Mahesh Chandra Govil, Dr. Mushtaq Ahmed 
+ Year of Award :2018 
+ kunwar.11mar@gmail.com 8239384185
+
+
+
+
+
+
+Dr. Tapas Badal
+ 2013RCP9004
+ Ph.D
+ Supervisors :Dr. Neeta Nain 
+ Year of Award :2018 
+ tapasbadal@gmail.com 7725921088
+
+
+
+
+
+
+Dr. Manish Jain
+ 2012RCP9513
+ Ph.D
+ Supervisors :Dr. Dinesh Gopalani 
+ Year of Award :2018 
+ halomanish@gmail.com 9351201813
+
+
+
+
+
+
+Dr. Chandra Prakash
+ 2014RCP9512
+ Ph.D
+ Thesis Title :Machine Learning Techniques for Vision-based Human Gait Analysis 
+ Supervisors :Dr. Namita Mittal, Dr. Rajesh Kumar 
+ Year of Award :2018 
+ cprakash@nitdelhi.ac.in 7568599806
+
+
+
+
+
+
+Dr. Maroti Deshmukh
+ 2014RCP9539
+ Ph.D
+ Supervisors :Dr. Neeta Nain and Dr. Mushtaq Ahmed 
+ Year of Award :2018 
+ marotideshmukh@nituk.ac.in 8500173440
+
+
+
+
+
+
+Dr. Gaurav Somani
+ 2013RCP9552
+ Ph.D
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Dheeraj Sanghi (IIT Kanpur) 
+ Year of Award :2018 
+ 2013rcp9552@mnit.ac.in 9468656301
+
+
+
+
+
+
+Dr. Shweta Bhandari
+ 2015RCP9508
+ Ph.D
+ Supervisors :Manoj Singh Gaur, Vijay Laxmi, Akka Zemmari 
+ Year of Award :2018 
+ er.shwetabhandari@gmail.com 7597385348
+
+
+
+
+
+
+Dr. Manoj Kumar Bohra
+ 2011RCP 7126
+ Ph.D
+ Thesis Title :Design of Highly Adaptive and Fault Tolerant Routing for Networks on Chip 
+ Supervisors :Prof. M.S. Gaur, Prof. Vijay Laxmi 
+ Year of Award :2017 
+ bohra.manoj1980@gmail.com 9460756900
+
+
+
+
+
+
+Dr. Gaurav Singal
+ 2012RCP9509
+ Ph.D
+ Supervisors :Prof. Manoj Singh Gaur 
+ Year of Award :2017 
+ gauravsingal789@gmail.com 9413882576
+
+
+
+
+
+
+Dr. Parvez Faruki
+ 2012RCP9518
+ Ph.D
+ Thesis Title :Techniques for Analysis and Detection of Android Malware 
+ Supervisors :Prof. Vijay Laxmi, Prof. Manoj Singh Gau 
+ Year of Award :2017 
+ parvezfaruki.kg@gmail.com 9925199198
+
+
+
+
+
+
+Dr. Ankit Vidyarthi
+ 2012RCP9514
+ Ph.D
+ Thesis Title :Classification of Malignant Brain Tumors using MRI by Machine Learning 
+ Supervisors :Dr. Namita Mittal 
+ Year of Award :2017 
+ dr.ankit.vidyarthi@gmail.com 7734992121
+
+
+
+
+
+
+Dr. Lokesh Kumar Sharma
+ 2013RCP9007
+ Ph.D
+ Supervisors :Dr. Namita Mittal 
+ Year of Award :2017 
+ lokesh.gbu@gmail.com 9636648896
+
+
+
+
+
+
+Dr. Preeti Mishra
+ 2013RCP9523
+ Ph.D
+ Thesis Title :Efficient Techniques for Intrusion Detection in Cloud Environment 
+ Publications :https://dblp.org/pid/190/3743.html
+ Supervisors :Dr. Pilli Emmanuel Shubhakar, Prof. Vijay Varadharajan 
+ Year of Award :2017 
+ dr.preetimishranit@gmail.com 8218061127
+
+
+
+
+
+
+Dr. Vipin Pal
+ 2010REC203
+ Ph.D
+ Thesis Title :Framework for energy efficient clustering approach for wireless sensor netwoks 
+ Supervisors :Dr. Girdhari Singh 
+ Year of Award :2016 
+ vipinrwr@gmail.com 9485185960
+
+
+
+
+
+
+Dr. Anil Saini
+ 2011RCP7124
+ Ph.D
+ Thesis Title :Attacks and Mitigation in Web Browsers 
+ Supervisors :Prof. Manoj Singh Gaur 
+ Year of Award :2016 
+ anil@ceeri.res.in 9414789728
+
+
+
+
+
+
+Dr. Ramesh Babu Battula
+ 2012RCP9519
+ Ph.D
+ Thesis Title :Path and Spectrum Aware Routing in Cognitive Radio Wireless Mesh Networks 
+ Supervisors :Prof. Manoj Singh Gaur, Dr. Dinesh Gopalani 
+ Year of Award :2016 
+ rbbattula.cse@mnit.ac.in 9549654395
+
+
+
+
+
+
+Dr. Prakash Choudhary
+ 2012RCP9510
+ Ph.D
+ Thesis Title :An Annotated Urdu Corpus of Handwritten Text Images and Benchmarking of Corpus 
+ Supervisors :Dr. Neeta Nain 
+ Year of Award :2016 
+ choudharyprakash87@gmail.com 9982114196
+
+
+
+
+
+
+Dr. Mukesh Kumar Gupta
+ 2013RCP7123
+ Ph.D
+ Thesis Title :Detection of security vulnerabilities using static analysis and machine leaning techniques 
+ Supervisors :Prof. M.C. Govil, Prof Girdhari Singh 
+ Year of Award :2016 
+ mukeshgupta@skit.ac.in 9772545766
+
+
+
+
+
+
+Dr. Rimpy Bishnoi
+ 2011RCP7127
+ Ph.D
+ Thesis Title :Resilient Routing Implementation for 2D Mesh Networks on Chip 
+ Supervisors :Prof. Manoj Singh Gaur , Prof. Vijay Laxmi 
+ Year of Award :2015 
+ rimpybishnoi@gmail.com 7036358894
+
+
+
+
+
+
+Dr. Subhash Panwar
+ 2011RCP7151
+ Ph.D
+ Thesis Title :Cursive Handwritten Text Recognition Methodologies with Langauge Adaptive Segmentation 
+ Supervisors :Dr. Neeta Nain 
+ Year of Award :2015 
+ Panwar.subhash@gmail.com 9928589444
+
+
+
+
+
+
+Dr. Smita Naval
+ 2012RCP9013
+ Ph.D
+ Thesis Title :Behaviour-based dynamic malware detection techniques 
+ Supervisors :Prof. Vijay Laxmi, Prof. Muttukrishnan Rajarajan (City University of London) 
+ Year of Award :2015 
+ smita.cse@mnit.ac.in 9549656043
+
+
+
+
+
+
+Dr. Yogesh Kumar Meena
+ 2012RCP9001 
+ Ph.D
+ Thesis Title :EXTRACTIVE AUTOMATIC TEXT SUMMARIZATION BASED on VOTING and FILTERING TECHNIQUES 
+ Supervisors :Dr. Dinesh Gopalani 
+ Year of Award :2015 
+ ymeena.cse@mnit.ac.in 7891005056
+
+
+
+
+
+
+Dr. Chhagan Lal
+ 2010RCP101
+ Ph.D
+ Thesis Title :Quality-of-Service Driven Routing for Video Streaming in Mobile Ad Hoc Networks 
+ Supervisors :Prof. Vijay Laxmi, Prof. Manoj Singh Gaur 
+ Year of Award :2014 
+ chhagan.iiita@gmail.com 4745833804
+
+
+
+
+
+
+Dr. Basant Agarwal
+ 2011RCP7125
+ Ph.D
+ Thesis Title :Prominent feature extraction for sentiment analysis 
+ Supervisors :Dr. Namita Mittal 
+ Year of Award :2014 
+ basant.cse@iiitkota.ac.in 9829013908
+
+
+
+
+
+
+Dr. Meenakshi Tripathi
+ 2007RCP002
+ Ph.D
+ Thesis Title :Energy Efficient and Secure Routing for Clustered Wireless Sensor Networks 
+ Supervisors :Prof. Vijay Laxmi 
+ Year of Award :2014 
+ mtripathi.cse@mnit.ac.in 9549654393
+
+
+
+
+
+
+Dr. Jyoti Grover
+ 2008RCP102
+ Ph.D
+ Thesis Title :Vehicular Ad hoc Network: Attack Model and Detection 
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Vijay Laxmi 
+ Year of Award :2013 
+ jyoti.grover@gmail.com 9461664398
+
+
+
+
+
+
+Dr. Preety Singh
+ 2009RCP102
+ Ph.D
+ Thesis Title :Extraction of Prominent Articulators for Visual Speech Recognition 
+ Supervisors :Prof. Vijay Laxmi, Prof. Manoj Singh Gaur 
+ Year of Award :2013 
+ prtysingh@gmail.com 9828364396
+
+
+
+
+
+
+Dr. Reena Gunjan
+ 2009RCP101
+ Ph.D
+ Thesis Title :Robust Watermarking Techniques in Digital Images 
+ Supervisors :Prof. Manoj Singh Gaur,  
+ Year of Award :2013 
+ reenagunjan@gmail.com 7741974709
+
+
+
+
+
+
+Dr. Dinesh Gopalani
+ 0690903
+ Ph.D
+ Thesis Title :Aspect Calculi : Formal Theory of Aspect-Oriented Programming Languages 
+ Supervisors :Prof. M.C. Govil 
+ Year of Award :2012 
+ dgopalani.cse@mnit.ac.in 9549654392
+
+
+
+
+
+
+Dr. Mushtaq Ahmed
+ 036007
+ Ph.D
+ Thesis Title :Adaptive Fault Tolerant Routing in 2D Mesh Network on Chip 
+ Supervisors :Prof. Vijay Laxmi 
+ Year of Award :2012 
+ mahmed.cse@mnit.ac.in 9549654176
+
+
+
+
+
+
+Dr. Rajbir Kaur
+ 2009RCP501
+ Ph.D
+ Thesis Title :Mobile Ad-Hoc Networking  
+ Supervisors :Prof. Manoj Singh Gaur, Prof. Vijay Laxmi 
+ Year of Award :2012 
+ rajbirkaur@lnmiit.ac.in 9829688889
+
+
+
+
+
+
+Dr. Vinod P
+ 2001RCP101
+ Ph.D
+ Thesis Title :Malware Analysis and Detection Methodologies 
+ Supervisors :Prof. Vijay Laxmi, Prof. Manoj Singh Gaur 
+ Year of Award :2012 
+ pvinod21@gmail.com 9497179735
+
+
+
+
+
+
+Dr. Namita Mittal
+ 036005
+ Ph.D
+ Thesis Title :Personalised Information Retrieval Using User Profile and Collaborative Filtering 
+ Supervisors :Prof. M. C. Govil, Dr. Richi Nayak (QUT, Australia), Prof. K C Jain 
+ Year of Award :2011 
+ nmittal.cse@mnit.ac.in 9549654394
+
+
+
+
+
+
+Dr. Neeta Nain
+ 036009
+ Ph.D
+ Thesis Title :Scale Independent Interest Point Detection and Its Hardware
+Architecture 
+ Supervisors :Prof. Vijay Laxmi 
+ Year of Award :2011 
+ nnain.cse@mnit.ac.in 9549654177
+
+
+
+
+
+
+Dr. Naveen Choudhary
+ 2007RCP003
+ Ph.D
+ Thesis Title :Irregular Topology Design Methodologies for Application Specific Network on Chip 
+ Supervisors :Prof. Manoj Singh Gaur 
+ Year of Award :2011 
+ naveenc121@yahoi.com 9352356102
+
+
+
+
+
+
+Dr. Krishan Kumar Paliwal
+ 2007RCP001
+ Ph.D
+ Thesis Title :QoS-aware Routing in Network-on-Chip 
+ Supervisors :Prof Manoj Singh Gaur, Prof Vijay Janyani 
+ Year of Award :2010 
+ captkkpaliwal@gmail.com 9717685428
+
+
+
+
+
+
+Dr. Girdhari Singh
+ 03609
+ Ph.D
+ Thesis Title :AGENT BASED REAL-TIME SYSTEM MODELING BASED on UML 
+ Supervisors :Prof. M.C. Govil 
+ Year of Award :2009 
+ gsingh.cse@mnit.ac.in 9414258820
+
+
+
+
+Computer Science & Engineering | Maulana Azad National Institute of Technology ,Government of India 
+Faculty
+
+
+
+
+Dr. Meenu Chawla 
+Designation: Professor
+Qualification: Ph.DÂ CSE
+Research Area : AdHoc networks
+Email:Â  chawlam[at]manit[dot]ac[dot]in
+Phone No.:07554051302, 07552420966
+More Information
+
+
+
+
+
+Dr. Nilay Khare 
+Designation: ProfessorÂ 
+Qualification: Ph.D Computer Sc. & Engg.
+Email:Â nilay.khare[at]rediffmail[dot]com 
+Phone: 0755-4051319
+More Information
+
+
+
+
+
+Dr. R. K. Pateriya 
+Designation: Professor
+Qualification: Ph.D, M.Tech, B.E
+Email:Â pateriyark[at]gmail[dot]com
+Email:Â pateriyark[at]manit[dot]ac[dot]in
+Phone: 0755-4051313 (Mob) 9425027381
+More Information
+Â 
+
+
+
+
+
+Dr. Vasudev Dehalwar 
+Designation: Associate Prof.
+Qualification: Ph.D, Victoria University Melbourne Australia, M.Tech, IIT Kharagpur
+Email:Â vasudevd[at]manit[dot]ac[dot]in,Â vasudevd[at]gmail[dot]com
+More Information
+
+
+
+
+
+Dr. Deepak Singh Tomar 
+Designation: AssociateÂ ProfessorÂ & HOD
+Qualification: B.E., M.Tech., Ph.D (Computer Sc. & Engg.)
+Email:Â deepaktomar[at]manit[dot]ac[dot]in
+Phone No.:(O) 0755-4051304, (R) 0755-4052645, (M) 09827225851
+More Information
+
+
+
+
+
+Dr. Manish Pandey
+Designation: Assistant Professor
+Qualification: B.E., M.Tech., Ph.D
+Email:Â contactmanishpandey[at]yahoo[dot]ac[dot]in
+Phone: 0755-4051305
+More Information
+
+
+
+
+
+Dr. Jyoti Bharti 
+Designation: Assistant. Professor
+Qualification: M.Tech, Ph.D
+Email:Â  jyoti_2202[at]yahoo[dot]com
+Phone No.:Phone: 0755-4051315 (Mob) 9425672817
+More Information
+
+
+
+
+
+Dr. Manasi Gyanchandani 
+Designation: Assistant Professor
+Qualification: Ph.D, M.Tech
+Email:Â  manasi_gyanchandani[at]yahoo[dot]co[dot]in,Â mansigyanchandani[at]manit[dot]ac[dot]in
+Phone: 0755- 4053251Â (Mob) 9303133523, 7000912280
+More Information
+
+
+
+
+
+Dr. Sweta Jain
+Designation: Assistant Professor
+Qualification: B.E., M.Tech, Ph.D
+Email:Â shweta_j82[at]yahoo[dot]co[dot]in
+Phone No.:0755-4051306
+More Information
+
+
+
+
+
+Dr. Sri Khetwat Saritha
+Designation: Assistant Professor
+Qualification: B.E., M.Tech, Ph.D
+Email: sksmvsr[at]yahoo[dot]co[dot]in,Â  khethawatsaritha[at]manit.ac.in
+Phone No.:0755-4051307
+More Information
+
+
+
+
+
+Prof. B.N. Roy 
+Designation: Assistant Professor
+Qualification: B.E., M.Tech.
+Email:Â bholanathroy[at]manit[dot]ac[dot]in,
+Email:Â bhola.mact2002[at]gmail[dot]com
+Phone No.:0755-4051308
+
+
+
+
+
+Dr. Rajesh Wadhvani 
+Designation: Assistant. Professor
+Qualification: B.E, M.Tech., Ph.D
+Phone: 0755-4051317 (Mob) 9893338992
+Email:Â rajeshwadhvani[at]manit[dot]ac[dot]in
+Email:Â wadhvani_rajesh[at]rediffmail[dot]com
+More Information
+
+
+
+
+
+Dr. Sanyam Shukla 
+Designation: Assistant. Professor
+Qualification: B.E , M.Tech. Ph.D
+Email:Â sanyamshukla[at]manit[dot]ac[dot]in,
+Email:Â sanyamshukla[at]gmail[dot]com
+Phone No. 0755-4052627 (Mob) 9826075662
+More Information
+
+
+
+
+
+Dr. Akhtar Rasool 
+Designation: Assistant Professor
+Qualification: B.E., M.Tech.,Â Ph.D
+Email:Â akki262[at]yahoo[dot]ac[dot]in,
+Phone No.:9755429237, 9179063325
+More Information
+Â 
+
+
+
+
+
+Dr. Jaytrilok Choudhary 
+Designation: Assistant Professor
+Qualification: Ph.D, M. Tech. (CSE), IIT Roorkee B.E. (IT), MITM Indore
+Email:Â  jaytrilok[at]manit[dot]ac[dot]in,
+Email:Â jaytrilok[at]gmail[dot]com
+Phone No.:0755-4051310
+More Information
+
+
+
+
+
+Dr. Dhirendra Pratap Singh 
+Designation: Assistant Professor
+Qualification :Ph.D, M.Tech. (IT), B.E. (CSE)
+Email:Â  dpsingh[at]manit[dot]ac[dot]in
+Email:Â dpsingh.manit[at]gmail[dot]com
+Phone: 0755-4051320
+More Information
+
+
+
+
+
+Dr. Namita Tiwari 
+Designation: Assistant Professor
+Qualification: Ph.D, M.Tech, B.E.
+Email:Â  namita_tiwari21[at]rediffmail[dot]com
+More Information
+
+
+
+
+Dr. Pragati AgrawalÂ  
+Designation: Assistant Professor
+Qualification :PhD, BE (CSE)
+More Information
+
+
+
+
+
+Name: Dr. Mitul Kumar Ahirwal
+Designation: Assistant Professor
+Qualification: B.E., M.Tech., Ph.D.
+Research Area: Artificial Intelligence, Soft Computing, Biomedical Signal and Image Processing, Evolutionary IntelligenceÂ Â 
+Email: Â mkahirwal[at]manit.ac.in, ahirwalmitul[at]gmail.com
+Phone:+91-9981216927
+More Information
+
+
+
+
+
+Name: Dr. Vijay Bhaskar Semwal
+Designation: Assistant Professor
+Qualification:Â Â Ph.D.(Robotics )- IIIT Allahabad),Â M.Tech. (IIIT Allahabad), B.Tech.( College of Engg. Roorkee)
+Research Area: Bipedal locomotion Generation, Human Gait Analysis, Machine Learning, Pattern Recognition & Neural Network.
+Email: vsemwal[at]gmail[dot]com, vsemwal[at]manit[]dotac[dot]in
+Phone:+91-8874142887 (o), +91-7541805885(m)
+Website: https://sites.google.com/site/wwwvbsemwalcom/home
+More Information:
+
+
+
+
+
+Name: Dr. Vaibhav Soni
+Designation: Assistant Professor
+Qualification: Ph.D., M.Tech. (CS) and B.E. (CSE)
+Research Area: Ad-Hoc and Wireless Sensor Networks, Soft Computing, and Machine Learning
+Email: vaibsoni.manit@gmail.com, vaibsoni@gmail.com
+More Information
+
+
+
+Staff
+
+Faculty â€“ Department of Computer Science & Engineering
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select LanguageEnglishHindi
+
+
+
+
+
+
+
+
+
+Faculty Details
+
+
+
+
+
+
+HEAD OF THE DEPARTMENT
+Name:Â Dr. P. S. Deshpande
+Designation: Professor
+Qualification: Ph. D.(Nagpur University-at VRCE/VNIT),M. Tech. (IIT Bombay)
+Areas of interest: Database Management Systems, Data warehousing & Mining, Pattern Recognition
+Contact No. : 0712-2801026
+E-mail id:Â psdeshpande[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+Â 
+Professor
+
+
+
+
+
+Name:Â Dr. O. G. Kakde
+Designation: Professor and on Deputation as Director IIIT Nagpur.
+Qualification: Ph.D. (Nagpur University â€“ at VRCE/VNIT), M.Tech. (IIT Bombay)
+Areas of Interest: Language Processor,Computer Programming Languages,
+Advanced Compiler Construction
+E-mail id:Â ogkakde[at]cse[dot]vnit[dot]ac[dot]in
+Home PageÂ :Â https://cse.vnit.ac.in/people/ogkakde/
+
+
+
+
+
+
+
+
+
+
+Name:Â Dr. S. R. Sathe
+Designation: Professor
+Qualification: Ph.D.(Nagpur University-at VRCE/VNIT),M.Tech. (IIT Bombay)
+Areas of Interest: Theoretical Computer Science
+Contact No. : 0712-2801294
+E-mail id:Â srsathe[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+
+
+Name:Â Dr. U. A. Deshpande
+Designation: Professor
+Qualification: Ph.D. (IIT Kharagpur), M.Tech. (IIT Bombay)
+Areas of interest: Multi-agent systems, Distributed Systems, Soft Computing
+Contact No. : 0712-2801027
+E-mail id:Â uadeshpande[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+Â 
+Associate Professor
+Â 
+
+
+
+
+
+Name:Â Dr. R. B. Keskar
+Designation: Associate Professor &Â AssociateÂ Dean (Information Technology: MIS, Network and website)
+Qualification: M. Tech. (IIT Bombay),Â Ph. D.(VNIT)
+Areas of interest: Telecommunication software, Distributed Systems, Formal Verification, Compiler Optimization
+Contact No. : 0712-2801558
+E-mail id:Â rbkeskar[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+
+
+Name:Â Dr.Â M. P. Kurhekar
+Designation: Associate Professor
+Qualification: M. Tech (IIT Bombay)Â ,Â Ph.D.(VNIT)
+Areas of Interest: Theoretical Computer Science, BioInformatics
+Contact No. : 0712-2801597
+E-mail id:Â manishkurhekar[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+
+
+Name:Â Dr. A. S. Mokhade
+Designation: Associate Professor
+Qualification: M.Tech. (IIT Bombay), Ph.D. (VNIT)
+Areas of interest: Software Engineering, Software Architecture
+Contact No. : 0712-2801048
+Email Id:Â asmokhade[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+Name:Â Dr. (Mrs.)Â M. M. Dhabu
+Designation: Associate Professor
+Qualification: M.E.,Â Ph.D. (VNIT)
+Areas of Interest: Data Mining, Soft Computing, Network Security, Smart Grid
+Contact No. : 0712-2801030
+E-mail Id:Â meeradhabu[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+Â Name:Â Dr. (Mrs.)Â S.A. Raut
+Designation: Associate Professor
+Qualification: M.Tech.,Ph.D. (VNIT)
+Areas of Interest:Â Data Mining and Warehousing,Â Bioinformatics,Â Data Science & Analysis,Â Scheduling & Resource Management in IoT,Â Parallel Algorithms & High Performance Computing
+Contact No. : 0712-2801559
+E-mail id:Â saraut[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+Â Name:Â Dr. Poonam Sharma
+Designation: Associate Professor
+Qualification:Â M. Tech (RGPV, Bhopal), Ph. D. (MANIT, Bhopal)
+Areas of Interest:Â Image Processing, Biometrics, Neural Networks
+Contact No. :0712-2801596
+E-mail id:Â poonamsharma[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+Â 
+Name:Â Dr. Praveen Kumar
+Designation: Associate Professor
+Qualification: B.Tech.(IIT Roorkee) ,Â Ph.D.(IIT Roorkee) ,Post Doc.(University of Missouri, Columbia(USA))
+Areas of Interest: Image & Video ananlytics for Surveillance, Parallel & High Performance Computing
+Contact No. : 0712-2801792
+Email Id:Â praveenkumarÂ [at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+
+
+
+Â 
+Assistant Professor
+
+
+
+
+
+
+
+
+
+
+Name:Â Dr. (Mrs.)Â D.D. Shrimankar
+Designation: Assistant Professor
+Qualification: M.Tech.,Ph.D. (VNIT)
+Areas of Interest: Parallel and Distributed Systems, Embedded Systems, Computer Networks
+Contact No. : 0712-2801023
+E-mail id:Â dshrimankar[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+Name:Â Dr. Ashish S. Tiwari
+Designation: Assistant Professor
+Qualification: M.E. (MNNIT, Allahabad), Ph.D (VNIT)
+Areas of Interest: Mobile Communication, Information Security, Operating Systems
+Contact No. : 0712-2801050
+E-mail id:Â at[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+
+
+
+
+
+Â Name:Â Dr. Mansi A. Radke
+Designation: Assistant Professor
+Qualification:Â M.S.(Computer Science)University of Maryland, Baltimore County, USA, Ph.D.(VNIT)
+Areas of Interest: Information Retrieval, Semantic Web
+Contact No. : 0712-2801791
+Email Id:Â mansi[dot]radke[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Â 
+Name:Â Dr. Syed Taqi Ali
+Designation: Assistant Professor
+Qualification : MTech (CSE-IS) NITK Surathkal 2009, PhD (CSE) NIT Warangal 2014
+Areas of Interest: Cryptography, Provable security and Algorithms
+Contact No. :Â 0712-2801794
+Email Id: sta[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Name: Dr. Anshul Agarwal
+Designation: Assistant Professor
+Qualification: Ph.D. (IIT Bombay), M.Tech. (IIT Bombay)
+Areas of interest: Cyber Physical Systems and IoT, Applied ML, Game Theory and Optimization, Smart Buildings and Smart Grids
+Contact No. : 0712-2801798
+E-mail id: anshulagarwal[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Name: Dr. Swati Jaiswal
+Designation: Assistant Professor
+Qualification:Â Ph.D.Â (IITÂ Bombay),Â M.Tech.Â (IITÂ Bombay)
+Areas of Interest:Â Compilers, Program Analysis
+Contact No.: 0712-2801797
+Email:Â swatijaiswal[at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Name:Â Dr. Gaurav Mishra
+Designation:Â Assistant Professor
+Qualification:Â Ph.D.Â (IIITÂ Jabalpur),Â M.Tech.Â (IIITÂ Jabalpur)
+Areas of Interest:Â Data Clustering, Graph Clustering, Algorithms
+Contact No.:
+Email:Â gauravmishra [at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Name:Â Dr. Yadunath Pathak
+Designation:Â Assistant Professor
+Qualification:Â Ph.D.Â (ABV-IIITM Gwalior),Â M.Tech.Â (Â ABV-IIITM Gwalior)
+Areas of Interest: Image Processing, MachineÂ Learning
+Contact No.:
+Email:yadunathpathak [at]cse[dot]vnit[dot]ac[dot]in
+
+
+
+Name:Â Dr. Nidhi Lal
+Designation:Â Assistant Professor
+Qualification:Â Ph.D.Â (NIT Allahabad),Â M.Tech.Â (IIIT Allahabad)
+Areas of Interest:Â Human-Computer Interaction, Machine Learning, Deep Learning, Blockchain Technology
+Contact No.: 8787087653
+Email:Â nidhilal@cse.vnit.ac.in
+
+
+
+Name: Dr. Hemkumar D
+Designation: Assistant Professor
+Qualification: PhD (NIT Warangal), M.Tech (NIT Surathkal)
+Areas of Interest: Data Privacy, DifferentialÂ Privacy
+Contact No: 8919645103
+Email ID:Â hemkumar@cse.vnit.ac.in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Mission & Vision
+VNIT Home
+Admission
+PEOs & POs
+Newsletter
+News & Upcoming Events
+Achievements
+ACM Student Chapter
+Facilities
+Opportunities
+Contact Us
+ 
+
+
+ 
+
+
+
+
+
+Â© 2023 Department of Computer Science & Engineering | Developed by VNIT, Nagpur
+
+
+
+
+	NIT Rourkela
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Anup Nandy
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Machine Learning, Artificial Intelligence, Robotics, Human Cognitive Modeling.
+
+
+Â Â  nandya[at]nitrkl.ac.in
+Â Â  0661-246-2370
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Arun Kumar
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Internet of Things, Wireless Sensor Networks, Ad-hoc and Mobile Networks, Communication Algorithms, Computer Networks Analysis
+
+
+Â Â  kumararun[at]nitrkl.ac.in
+Â Â  0661-246-2373
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Ashok Kumar Turuk
+Professor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Optical Network, Blockchain, Software Defined Networks
+
+
+Â Â  akturuk[at]nitrkl.ac.in
+Â Â  0661-246-2360
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Banshidhar Majhi
+Professor HAG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Image Processing, Data Compression, Cryptography and Security, Parallel Computing, Soft Computing, Biometrics
+
+
+Â Â  bmajhi[at]nitrkl.ac.in
+Â Â  0661-246-
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Bibhudatta Sahoo
+Associate Professor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Data Structures, Algorithmic Engineering, Theoretical Computer Science, Computer Architecture, Parallel & Distributed Systems, Cloud Computing, Fog/Edge Computing, Internet of Things, Software Defined Networks, Virtualized Security, Web Engineering.
+
+
+Â Â  bdsahu[at]nitrkl.ac.in
+Â Â  0661-246-2358
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Durga Prasad Mohapatra
+Professor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Software Engineering,, Software Testing, Software Reliabilty, Software Security, Software Project Management, Program Slicing, Distributed Systems, Real-Time Systems, Discrete Mathematics
+
+
+Â Â  durga[at]nitrkl.ac.in
+Â Â  0661-246-2356
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Judhistir Mahapatro
+Assistant Professor Grade-II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Wireless Body Area Networks, Wireless Sensor and Ad Hoc Networks, Internet of Things
+
+
+Â Â  mahapatroj[at]nitrkl.ac.in
+Â Â  0661-246-
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Manmath Narayan Sahoo
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Fault Tolerant Systems, Distributed Systems, Wireless Sensor Networks
+
+
+Â Â  sahoom[at]nitrkl.ac.in
+Â Â  0661-246-2364
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Pabitra Mohan Khilar
+Associate Professor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Distributed Fault Diagnosis, Wireless Adhoc Networks,, VANET, Wireless Sensor Networks, Intelligent Transportation System, Distributed Computing, Cluster, Grid and Cloud Computing, Distributed Embedded Systems, Performance Evaluation of Algorithms for Distributed Networks, Unmanned Arial Vehicle
+
+
+Â Â  pmkhilar[at]nitrkl.ac.in
+Â Â  0661-246-2354
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Pankaj Kumar Sa
+Associate Professor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Computer Vision, Image Processing, Computer Graphics, Bioinformatics, Biometrics, Video Surveillance, Machine Learning
+
+
+Â Â  PankajKSa[at]nitrkl.ac.in
+Â Â  0661-246-2362
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Puneet Kumar Jain
+Assistant Professor Grade-II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Biomedical signal and image processing, AI and ML for Healthcare
+
+
+Â Â  jainp[at]nitrkl.ac.in
+Â Â  0661-246-
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Ramesh Kumar Mohapatra
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Formal Language, Algorithm Analysis, Optical Character Recognition, Secure Computing and Machine Learning
+
+
+Â Â  mohapatrark[at]nitrkl.ac.in
+Â Â  0661-246-2366
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Ratnakar Dash
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Computer Vision, Machine Learning, Deep Learning
+
+
+Â Â  ratnakar[at]nitrkl.ac.in
+Â Â  0661-246-2365
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Sambit Bakshi
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Biometric Security, Visual Surveillance, Digital Forensics
+
+
+Â Â  bakshisambit[at]nitrkl.ac.in
+Â Â  0661-246-2371
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Sanjeev Patel
+Assistant Professor Grade-II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Computer Networks, Stochastic Optimization, Software Defined Networking, Cloud Computing, Content based Image Retrieval
+
+
+Â Â  patels[at]nitrkl.ac.in
+Â Â  0661-246-
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof.(Ms.) Suchismita Chinara
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Computer Networks, Internet of Things (IoT), Wireless Sensor Networks, Machine Learning, Data communication
+
+
+Â Â  suchismita[at]nitrkl.ac.in
+Â Â  0661-246-2361
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof.(Ms.) Sujata Mohanty
+Assistant Professor Grade-I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Cryptography, Information Security, Cloud Security and IoT
+
+
+Â Â  sujatam[at]nitrkl.ac.in
+Â Â  0661-246-2363
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prof. Sumanta Pyne
+Assistant Professor Grade-II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Software techniques for energy efficient computing, Low Power VLSI, Embedded Systems, Formal Verification and Model Checking, Digital Micro-fluidics, Network Mobility (NEMO), Vehicular ad hoc networks (VANETs), Computational and combinatorial geometry
+
+
+Â Â  pynes[at]nitrkl.ac.in
+Â Â  0661-246-2369
+                                
+
+View Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Tapas Kumar Mishra
+Assistant Professor Grade-II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas of Interest:
+ Algorithms, Combinatorics, Natural Language Processing, Machine Learning
+
+
+Â Â  mishrat[at]nitrkl.ac.in
+Â Â  0661-246-
+                                
+
+View Profile
+
+
+
+
+
+
+
+Home | Computer Science & Engg
+
+
+
+Dr. K. HIMABINDU
+
+
+
+
+
+
+
+
+ABOUT
+
+NAME:
+                Dr. K. HIMABINDU
+M.TECH:
+                JNTUH COE,  B.Tech from NIT Warangal
+EMAIL:Â himabinduk@nitandhra.ac.in
+
+
+POSITION:
+                Assistant ProfessorÂ &  HOD
+PHD:Â University of Hyderabad
+PHONE: +91Â 0000000000              
+AREAS OF INTEREST:Â Natural Language Processing, Web Mining, Machine Learning, Big data Analytics,  Educational Data Mining, Text Mining, Deep Learning
+
+
+
+
+
+
+
+
+
+PROFILE
+
+1.Â  Â Courses TaughtÂ  Â  Â  Â  a.Â  Â PGÂ  Â  Â  Â  Â  Â  Â  Â i.Â Â  Big Data AnalyticsÂ Â Â Â Â Â Â Â Â Â Â Â Â Â  ii. Deep Learning for Natural Language ProcessingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â  iii. Data Science and AnalyticsÂ  Â  Â  Â  Â  Â  Â  Â iv.Â Â  Data Warehousing and Data MiningÂ  Â  Â  Â  Â  Â  Â Â  v.Â  Advanced Data Structures and AlgorithmsÂ Â Â Â Â Â Â Â Â Â Â Â Â Â  vi. Machine LearningÂ  Â  Â  Â  Â b.Â  UGÂ  Â  Â  Â  Â  Â  Â  Â  i.Â Â  Artificial IntelligenceÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ii.Â  Big Data AnalyticsÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â  iii. Machine Learning and Soft ComputingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â  iv. Data StructuresÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â  v. Discrete MathematicsÂ  Â  Â  Â  Â  Â  Â  Â  vi. Data Warehousing and Data MiningÂ  Â  Â  Â  Â  Â  Â  Â  vii. Secure Software EngineeringÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  viii.Â  Design and Analysis of AlgorithmsÂ  Â  Â  Â  Â  Â  Â  Â  ix.Â  Machine Learning & Soft ComputingÂ  Â  Â  Â  Â  Â  Â  Â  x. Advanced Data StructuresÂ Â  Â  Â  Â  Â  Â  Â  Â  xi. OOP through JavaÂ  Â  Â  Â  Â  Â  Â  Â  xii. Operating SystemsÂ Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â  xiii.Â  C Programming and Numerical MethodsÂ  Â  Â  Â  Â  Â  Â  Â  xiv.Â  Data Base Management SystemsÂ  Â  Â  Â  Â  Â  Â  Â  xv. Computer ArchitectureÂ  Â  Â  Â  Â  Â  Â  Â  xvi. File StructuresÂ Â Â Â Â Â Â Â Â Â Â Â Â Â  xvii. Neural NetworksÂ Â Â Â Â Â Â Â Â Â Â Â Â Â  xviii. Compiler DesignÂ  Â  Â  Â  Â  Â  Â Â Â Â  Â  Â 2.Â  Â Professional (Work) ExperienceÂ  Â  Â  Â  Â  Â a.Â  Worked as Professor in Vishnu Institute of Technology, BhimavaramÂ  Â  Â  Â  Â  Â b.Â Worked as Professor, Associate Professor in Ramachandra College of Engineering, EluruÂ  Â  Â  Â  Â  Â c.Â Â Worked as Associate Professor in Sri Vasavi Engineering College and Sasi Institute of Technology, TadepalligudemÂ  Â  Â  Â  Â  Â d.Â Worked as Assistant Professor in Sir C.R.Reddy college of Engineering, EluruÂ  Â  Â  Â  Â  Â e.Â Worked as Member Technical at ADP Wilco International Systems, Somajiguda, HyderabadÂ  3.Â  Â Select PublicationsÂ  Â  Â  Â  Â  Â  a.Â  Â BooksÂ  Â  Â  Â  Â  Â  Â  Â i.Â  Coefficient of Variation and Machine Learning Applications, CRC Press, ISBN-10: 0367273284, ISBN-13: 978-0367273286Â  Â  Â  Â  Â  Â  b.Â  JournalsKiranBabu Nelatoori, K. Hima Bindu, "Multi-task learning for toxic comment classification and rationale extraction", Journal of Intelligent Information Systems, Springer, 2022, https://doi.org/10.1007/s10844-022-00726-4KiranBabu Nelatoori, K. Hima Bindu, "Attention-based Bi-LSTM Network for Abusive Language Detection", IETE Journal of Research, 2022, DOI:10.1080/03772063.2022.2034534Kaza Phani Rohitha, Burre Chandu, Nampally Nihal, and K.Hima Bindu, â€œAbusive Language Detection using Customized BERTâ€, Int. J. of Swarm Intelligence, Special Issue on: PCCDS 2020 Building Intelligent Applications Using Machine Learning (In Press, DOI: 10.1504/IJSI.2021.10041159)Bonthu, S., Prasanthi, B.,Â  Himabindu, K. (2017). Automation of pre-processing of students' data. Indian Journal of Computer Science And Engineering (IJCSE), Vol. 8 No. 3 Jun-Jul 2017 8(3), pp 241-245, ISSN: 0976-5166Â K.Hima Bindu, K. Swarupa Rani, and C.Raghavendra Rao. â€œCoefficient of Variation based Decision Tree (CvDT)". International Journal of Innovative Technology and Creative Engineering, ISSN:2045-8711, June 2011, Issue Vol.1 No.6Sri Shilpa Padmanabhuni, Hima Bindu, â€œSearch Results Clustering: Comparison of Lingo and K-Meansâ€, International Journal of Advanced Research in Computer Science and Management Studies, October 2013 Volume 1 Issue 5, pp 70-83, ISSN: 2321-7782.Kali Pradeep, I., Jaya Bhaskar, D., & Hima Bindu K. (2016). A Genetic Approach for Enhancing Recommender Systemâ€™s Stability. IRA-International Journal of Technology & Engineering (ISSN 2455-4480), 3(3).doi:http://dx.doi.org/10.21013/jte.v3.n3.p5, pp 148-153Â  Â  Â  Â  Â  c.Â  ConferencesNadapana Vasuki, K. Hima Bindu, "Investigating the role of Named Entity Recognition in Question Answering Models", IEEE 3rd GCAT 2022, ISBN: 978-1-6654-6855-8.KiranBabu Nelatoori, K. Hima Bindu, â€œEvaluation of Word Embeddings for Toxic Span Predictionâ€, Proceedings of the International Conference on Cognitive and Intelligent Computing ICCIC 2021, Springer,Â  https://doi.org/10.1007/978-981-19-2350-0_17Sri Harshini Vissamsetti, Sai Santhoshi Pravallika Kalyanapu, Shiva Charan Naik Jadhav and Himabindu K, â€œOffensiveness Detection in Hinglish Code-Switched Languageâ€, ICC3 2021 (5th International Conference on ComputationalÂ  Intelligence, Cyber security, Computational models)Bhanujyothi Kella, K Hima Bindu, â€œA Case Study in R to Recognize Human Activity using Smart Phonesâ€, Proceedings of the ICCIDE 2017, Volume8,Â  Lecture Notes on Data Engineering and Communications Technologies, Springer, ISBN 978-981-10-6319-0, pp 191-200.K. Hima Bindu, C. Raghavendra Rao., "Coefficient of Variation Based Decision Tree for Fuzzy Classification", Proceedings of the Fifth International Conference on Fuzzy and Neuro Computing (FANCCO - 2015), Volume 415 of the series Advances in Intelligent Systems and Computing, Springer, DOI 10.1007/978-3-319-27212-2_11, pp 139-149. K.Hima Bindu, and C.Raghavendra Rao, â€œSalient Features of Coefficient of Variation Based Decision Treeâ€, In Proceedings of NCETCS14, pp 205-210K. Hima Bindu, R. Srinivasa Raju, D. Suryanarayana, â€œSearch Results Clustering Validation Techniquesâ€, In Proceedings of NCATCCSA 2014, International Journal of Advanced Research in Computer Science, Volume 5, No. 2, March 2014, pp 114-121, ISSN No. 0976-569.K.Hima Bindu, and C.Raghavendra Rao. â€œSearch Result Clustering through Expectation Maximization based Pruning of Terms". In Proceedings of SOCPROS 2012, December 28-30, Advances in Intelligent Systems and Computing, Volume 236, Springer India, pp 1285-1292, ISBN 978-81-322-1601-8. [Indexed by DBLP]G. Mery Rani, K. Hima Bindu, â€œSearch Result Clustering with ODP based Bayesian Classifierâ€. In Proceedings ofÂ  ICNEAC-2011, Narsapur,July 8-10, 2011,pp 522-525, ISBN : 978-81-8465-683-1.K.Hima Bindu, and C.Raghavendra Rao. â€œAssociation Rule Centric Clustering of Web Search Results". In Proceedings of Multi-disciplinary Trends in Articial Intelligence, MIWAI'11, Lecture Notes in Computer Science, 2011, Volume 7080/2011, pp 159-168. [Indexed by DBLP]K.Hima Bindu, P.S.V.S Sai Prasad, and C.Raghavendra Rao. â€œConsistency Analysis of Query Reformation". In Proceedings of Emerging Trends in Soft Computing, NCETSC'11, Pune, India. Article 4, Excel India Publishers, 2.P.S.V.S.Sai Prasad, K.Hima Bindu, and C.Raghavendra Rao. â€œIncremental Learning in AttributeNets with Dynamic Reduct and IQuickReduct". In Proceedings of the 6th international conference on Rough sets and knowledge technology, RSKT'11, Springer-Verlag Berlin, Heidelberg 2011, pp 195-200. [Indexed by DBLP]K.Hima Bindu, P.S.V.S.Sai Prasad, and C.Raghavendra Rao. â€œHybrid Decision Tree based on Inferred Attribute". In Proceedings of the First Amrita ACM-W Celebration on Women in Computing in India, A2CWiC'10, ACM, New York, NY, USA, pp 61-67. http://dl.acm.org/citation.cfm?doid=1858378.1858379 [Indexed by DBLP]4.Â  Â  Â Research ProjectPI for the project entitled Study, Analysis and Implementation of Machine Learning Algorithms on Hadoop to solve Big Data problems under Young Scientist scheme from SERB under Big data Initiative 5.Â  Â  Â Patents6.Â  Â  Â  Ph.D Guidance â€“ (Name of the Scholar, Topic, Date of Joining)Nelaturi Kiran BabuVenkata Ramana BattulaKrishna Kumar SinghSrichandana AbbineniRajesh Arepalli7.Â  Â  Â Consultancy8.Â  Â  Â AchievementsNeural Networks and Deep Learning course from Coursera, 2020Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization course from Coursera, 2020R ProgrammingÂ  course from Coursera, Data Science Specialization, 2016Ratification from JNTU, Kakinada as Associate Professor, 2014Sun Certified Java Programmer (SCJP) from Sun Microsystems (now Oracle), 2000Selected for Scientist B position at DRDO, 1999Selected for Lecturer position at AP Polytechnic, 2000179th Rank in EAMCET-944thÂ  Rank in CEEP-92 exam by Govt. of Andhra Pradesh9.Â  Â  Â  MembershipsMember in ACM Member in IEEELife member in Indian Society for Rough setsLife member in Society for Development of Statistics 10.Â  Â  MiscÂ  a.Â  Â Seminars, Workshops, Courses and FDPs organizedÂ  Â  Â Â  Â Â  i. Five Days Online Faculty Development Programme on â€œDeep Learning for NLPâ€ was organized during 21st â€“ 25th March 2022. (self-finance mode).Â Â Â Â Â Â Â Â  ii.Â Â  Faculty Development Programme (FDP) on â€œBig Data Computingâ€ was organized during 29thApril - 4th May 2019, in association with E & ICT Academy, National Institute of Technology Warangal, (Sponsored by Ministry of Electronics and Information Technology (MeitY), GOI).Â Â Â Â Â Â Â Â  iii. Course on â€œData Analytics through Râ€ from 12-12-2016 to 31-12-2016 at Vishnu Institute of Technology, BhimavaramÂ Â Â Â Â Â Â  iv.Â  FDP on â€œData Science with Râ€ from 11-04-2016 to 16-04-2016 at Vishnu Institute of Technology, BhimavaramÂ Â Â Â Â Â Â  v. Â  Seminar on â€œBig Dataâ€ on 05-03-2016 at Vishnu Institute of Technology, BhimavaramÂ Â Â Â Â Â  vi.Â  Seminar on â€œMining High Speed Data Streamsâ€ on 08-07-2015 at Vishnu Institute of Technology, BhimavaramÂ Â Â Â Â Â  vii. FDP on â€œTrends in Soft Computing and its Toolsâ€ from 15-02-2014 to 19-02-2014 at Vishnu Institute of Technology, BhimavaramÂ  Â Â  b.Â  Â  Administrative ExperienceÂ  Â  Â  Â  Â  Â  Â i.Â Â  Head, CSEDÂ  Â  Â  Â  Â  Â Â  ii. Associate Dean Faculty WelfareÂ Â Â Â Â Â Â Â Â Â Â Â  iii. NBA, NAAC coordinatorÂ  Â  Â  Â  Â  Â  Â iv.Â  Coordinator for Womenâ€™s Grievance cellÂ Â  Â  Â  Â  Â  Â Â  v.Â  Dean R&D at Vishnu Institute of TechnologyData Warehousing and Data Mining 
+
+
+
+THIS WEBSITE BELONGS TO NATIONAL INSTITUTE OF TECHNOLOGY, ANDHRA PRADESH COPYRIGHT Â© 2018 - ALL RIGHTS RESERVED - NIT ANDHRA PRADESH Web Contact
+Home | Computer Science & Engg
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+Â Home
+
+Â Faculty
+Â Staff
+Â Laboratories
+Â Gallery
+Â Achievements
+Â Association
+Â Events
+Â Contact
+
+
+
+
+MAIN
+CSE
+FACULTY
+
+
+
+
+
+
+
+
+
+
+
+ Â Dr. K. HIMABINDU
+Â Assistant ProfessorÂ &  HOD          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Dr. KARTHICK S
+Â Assistant Professor          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Dr. NAGESH BHATTU SRISTY
+Â Assistant Professor          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Dr. SRILATHA CHEBROLU
+Â Assistant Professor          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mr. KAPPAGANTHU SUBRAHMANYA KOUSIK
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mr. KATURI RAMA KRISHNA
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mr. KOTHURU SRINIVASULU
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mr. M.G KARTHIKEYAN
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mr. RAVEENDRA BABU PONNURU
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mrs. PARASA RAJYA LAKSHMI
+Â Adhoc Faculty          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Â Mrs. SRI SATYA MONICA BANDARU
+Â Adhoc Faculty          
+
+
+
+
+
+National Institute of Technology, Meghalaya 
+
+						Faculty                    
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Diptendu Sinha Roy Ph.D,  BIT Mesra
+
+Associate Professor  
+
+Research Interest
+										Grid, Cloud and Distributed Systems, Data Analytics in Smart Grid Domain, Application of Soft and Evolutionary Computing, Software Reliability        								   
+
+
+
+ diptendu.sr@nitm.ac.in
+
+ 9436124204
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Akhilendra Pratap Singh Ph.D, IIIT Allahabad
+
+Assistant Professor 
+
+Research Interest
+										Blockchain Technology, Service Computing, Service Oriented Network Architecture, Localization and routing in Wireless Sensor Network, Semantic Web and Linked Open Data
+
+
+								   
+
+
+
+ akhilendra.singh@nitm.ac.in
+
+ 9485177042
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Alok Chakrabarty Ph. D, Assam University Silchar 
+
+Assistant Professor 
+
+Research Interest
+										Pattern Recognition, Machine Learning, Quantum Computing, Natural Language Processing								   
+
+
+
+ alok.chakrabarty@nitm.ac.in
+
+ 9485177008
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Bunil Kumar Balabantaray Ph.D.
+
+Assistant Professor 
+
+Research Interest
+										Robotics , Image Processing, Biomedical Image Analysis and Cyber Security 								   
+
+
+
+ bunil@nitm.ac.in
+
+ 9485185916
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Deepak Kumar Ph.D , NIT Meghalaya
+
+Assistant Professor 
+
+Research Interest
+										 Computational Mathematics,Digital Signal Processing,Vedic Mathematics								   
+
+
+
+ deepak.kumar@nitm.ac.in
+
+ 9485177020
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Soumen Moulik Ph.D,  IIT Kharagpur, India
+
+Assistant Professor 
+
+Research Interest
+										Wireless Personal/Body Area Networks (MAC of IEEE 802.15.4, IEEE 802.15.6), Wireless Sensor Networks, Internet of Things, Machine Learning								   
+
+
+
+ smoulik@nitm.ac.in
+
+ 9485185997
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Surmila Thokchom Ph.D,  NIT Meghalaya
+
+Assistant Professor 
+
+Research Interest
+										Cloud Computing, Cryptography								   
+
+
+
+ surmila.thokchom@nitm.ac.in
+
+ 9485177016
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Vipin Pal Ph.D,  MNIT Jaipur
+
+Assistant Professor 
+
+Research Interest
+										Â  Â  Wireless Sensor Networks,Â Â  Ad-Hoc NetworkÂ Â Â  Security and Privacy,Â Â  Internet of Things								   
+
+
+
+ vipinpal@nitm.ac.in
+
+ 9485185960
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Dr. Yogita Ph.D, IIT Roorkee 
+
+Assistant Professor and Head of Department 
+
+Research Interest
+										Machine Learning, Data Mining, Text Mining, Time series Analytics & Big Data Analytics								   
+
+
+
+ yogitathakran@nitm.ac.in
+
+ 9485185905
+
+
+
+Read more
+
+
+
+
+
+
+Adjunct Faculty 
+
+
+
+
+
+
+
+
+
+Prof. Prasan Kumar Sahoo PhD(CSIE), PhD(Math)
+
+Professor 
+
+Research Interest
+										AI,Deep Learning, Cloud, Fog and Edge Computing,IOT								   
+
+
+
+ pksahoo@mail.cgu.edu.tw
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Faculty
+ 
+Dr. Themrichon Tuithung
+
+Professor
+ Ph.D. (Indian Institute of Technology Kharagpur)
+ ttuithung@nitnagaland.ac.in
+Areas of Interest: Image and Video Processing.
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Shouvik Dey
+
+Associate Professor
+ Ph.D.(Jadavpur University)
+ send2shouvik@gmail.com , shouvik.dey@nitnagaland.ac.in
+Areas of Interest:IOT, Object Oriented Systems, Real-time Systems, Distributed Computing
+   Vidwan Profile
+
+
+
+
+ 
+Dr. J. Arul Valan
+
+Assistant Professor
+ Ph.D from MS University, M.E. (Computer Science and Engineering)
+ valanmspt@yahoo.co.in , valan@nitnagaland.ac.in
+Areas of Interest: Computer Networks, Network Security, Distributed Computing, Machine Learning, Deep Learning, Internet of Things(IoT)
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Arambam Neelima
+
+Assistant Professor 
+ Ph.D. (NIT Manipur)
+ neelima@nitnagaland.ac.in
+Areas of Interest: Digital Image Processing, Social Network Analysis and Data Mining.
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Dilwar Hussain Mazumder
+
+Assistant Professor
+ Ph.D. from NIT Nagaland, M.Tech. (Computer Science and Engineering),
+ dilwar2k4@yahoo.co.in, dilwar@nitnagaland.ac.in
+Areas of Interest:  Data Analytics, Machine Learning, Disease Prediction, Drug Discovery, DBMS, Algorithms, Computer Architecture & Organization.
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Nagaraju Baydeti
+
+Assistant Professor
+ Ph.D. from NIT Nagaland, M.Tech (Computer Science and Technology),
+ baydetinagaraju@nitnagaland.ac.in , baydetinagaraju@gmail.com
+Areas of Interest: Computer Networks, Online Social Networks, Redundant Data Traffic Analysis. Wireless Communications and Networks.
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Lithungo Murry
+
+Assistant Professor
+ Ph.D. from NIT Nagaland, M.Tech.(Information Technology)
+  lithunga@gmail.com, lithungo@nitnagaland.ac.in
+Areas of Interest:Computer Network, Wireless Communication and Networks, Human Computer Interface.
+			   Vidwan Profile
+
+
+
+
+ 
+Dr. Sibesh Lodh
+
+Assistant Professor
+ Ph.D. from NIT Nagaland, M. Tech. (Computer Science and Engineering)
+  sibeshnitnagaland@gmail.com, sibesh@nitnagaland.ac.in
+Areas of Interest: Mobile Ad-Hoc Networks, Theory of Computation.
+			   Vidwan Profile
+
+
+
+CSE | NIT SIKKIM
+Dr. Pratyay KuilaAssociate ProfessorDean R&C pratyay_kuila@nitsikkim.ac.in+91-7479013224Research Interest: Evolutionary Algorithms, AI and Machine Learning, Quantum-Inspired Algorithm, Mobile Fog and Edge Computing, Wireless Sensor NetworksMoreDr. Md. Sarfaraj Alam Ansari
+Assistant Professor
+sarfaraj@nitsikkim.ac.in+91-9332342995Research Interest: Peer-to-Peer Networks, Blockchain Technology, Network Security, Software Defined Networks, Internet of Things, Cloud Computing and Machine Learning.MoreDr. Pankaj Kumar KeserwaniAssistant Professorpankajkeserwani.cse@nitsikkim.ac.in+91-8967067779Research Interest: Application of Optimization and Machine/Deep LearningMoreMr. Prashant GuptaAssistant Professorprashantgupta@nitsikkim.ac.in+91 9873097270Research Interest: Theory of Automata & Computation, Computer Architecture & Organization,Cloud Computing, Discrete Structures.MoreDr. Krishna KumarAssistant Professorkrishnakumar@nitsikkim.ac.in+91-8095253170Research Interest: Time-Series Sequential Data Analysis,Brain and Nature Inspired Computing, AI and Machine Learning,Knowledge Based System.MoreMr. Arunangshu PalAssistant Professorarunangshupal@nitsikkim.ac.in+91-9432149897  +91-7044029658Research Interest: Mobile Ad hoc Networks ,
+Intelligent Transportation Systems ,
+Computer Networks,
+Data Structures and Algorithms,
+Object Oriented Programming,
+Logic in Computer Science
+
+
+
+More 
+Mr. Tapan ChhetriTechniciantapanchettri@nitsikkim.ac.in+91 9775963115 
+	National Institute of Technology Agartala
+
+
+
+Admission
+Library
+OPAC
+Webmail
+MIS
+Login
+Old Website
+
+
+
+
+
+
+-font size
+                                    decrease
+
+font size reset
+
++font size
+                                    increase
+
+default theme
+
+Dark mode
+
+
+
+
+
+
+
+
+
+
+
+National Institute of Technology Agartala
+à¤°à¤¾à¤·à¥à¤Ÿà¥à¤°à¥€à¤¯ à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤‚à¤¸à¥à¤¥à¤¾à¤¨ à¤…à¤—à¤°à¤¤à¤²à¤¾
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip Navigation Links
+
+HOMEABOUT
+About NITAFacilities
+ADMINSTRATION
+Board of GovernorsThe Senate CommitteeThe Finance CommitteeOffice of DirectorThe Buildings and Works CommitteeOffice of RegistrarOffice of Dean AcademicOffice of Dean(Planning & Development)Office of Dean(Students' Welfare)Office of Dean(Research & Consultancy)Office of Dean(Faculty Welfare)Office of Dean(Alumni Affairs & IR)Establishment SectionAccounts SectionAudit SectionPurchase SectionMIS UnitWebsite & Network Unit
+ACADEMICS
+Academic CalendarAcademic Regulations
+UG ProgrammeRegulations for M.tech Programme (2019)Regulations for M.tech Programme (Old)Regulations for Ph.D Programme  (2018)Regulations for Ph.D Programme (Old)
+ProspectusFirst Year SyllabusHoliday List
+STUDENT
+Center for Career DevelopmentCentral LibraryExamination Section
+List of PeopleVerification of Academic CredentialDigiLockerFormsSOP for acquiring Academic Documents
+NITA Health CentreHostel
+Office of the Chief Warden
+Student Bodies and ClubsStipend & Scholarship
+DEPARTMENT
+Bio EngineeringChemical EngineeringCivil Engineering (NBA Accredited)Computer Science and EngineeringElectrical EngineeringElectronics and Communication EngineeringElectronics and Instrumentation EngineeringMechanical EngineeringProduction EngineeringManagement, Humanities & Social SciencesPhysicsChemistryMathematics
+NEWS EVENTS
+Newsletter of NIT AgartalaMagazine "UPSHIFT"Upcoming EventsPast Events
+
+
+
+
+
+
+Computer Science and Engineering
+
+Skip Navigation Links
+
+ProgrammesFacultyStaffFacilitiesResearchPublications
+
+
+
+
+Faculty Members
+
+
+
+
+
+
+
+
+
+Dr. Suman Deb
+
+HOD & Assistant Professor
+Computer Science and Engineering, 
+sumandeb.cse@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Diptendu Bhattacharya
+
+Associate Professor
+Computer Science and Engineering, 
+diptendu.nita@gmail.com
+
+
+
+
+
+
+
+
+Dr. MRINAL KANTI DEBBARMA
+
+Associate Professor
+Computer Science and Engineering, 
+mrinal@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Munesh Chandra
+
+Associate Professor
+Computer Science and Engineering, 
+drmunesh.nita@gmail.com
+
+
+
+
+
+
+
+
+Dr. Anupam Jamatia
+
+Assistant Professor
+Computer Science and Engineering, 
+anupamjamatia@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Ashim Saha
+
+Assistant Professor
+Computer Science and Engineering, 
+ashim.cse@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Awnish Kumar
+
+Assistant Professor
+Computer Science and Engineering, 
+awnish.cse@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Dwijen Rudrapal
+
+Assistant Professor
+Computer Science and Engineering, 
+dwijen.rudrapal@gmail.com
+
+
+
+
+
+
+
+
+Dr. Jayakumar L
+
+Assistant Professor
+Computer Science and Engineering, 
+jayakumar@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Kunal Chakma
+
+Assistant Professor
+Computer Science and Engineering, 
+kchakma.cse@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. Ngangbam Herojit Singh
+
+Assistant Professor
+Computer Science and Engineering, 
+herojitng@gmail.com 
+
+
+
+
+
+
+
+
+Mr. Nikhil Debbarma
+
+Assistant Professor
+Computer Science and Engineering, 
+nikhildb@rediffmail.com
+
+
+
+
+
+
+
+
+Dr. Nirmalya Kar
+
+Assistant Professor
+Computer Science and Engineering, 
+nirmalya@ieee.org
+
+
+
+
+
+
+
+
+Dr. Ranjita Das
+
+Assistant Professor
+Computer Science and Engineering, 
+ranjita.nitm@gmail.com 
+
+
+
+
+
+
+
+
+Dr. Smita Das
+
+Assistant Professor
+Computer Science and Engineering, 
+smitadas.nita@gmail.com
+
+
+
+
+
+
+
+
+Dr. Suyel Namasudra
+
+Assistant Professor
+Computer Science and Engineering, 
+suyel.namasudra@nita.ac.in
+
+
+
+
+
+
+
+
+Dr. SWAPAN DEBBARMA
+
+Assistant Professor
+Computer Science and Engineering, 
+swapanxavier@gmil.com
+
+
+
+
+
+
+
+
+Mr. Tribid Debbarma
+
+Assistant Professor
+Computer Science and Engineering, 
+tribid@nita.ac.in
+
+
+
+
+
+
+
+
+Mr. Dhrubjyoti Bhowmik
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+babanbhowmik@gmail.com
+
+
+
+
+
+
+
+
+Dr. Kishore Kumar  Dhar
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+kkdhar82@gmail.com
+
+
+
+
+
+
+
+
+Dr. Moumita Majumder
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+moumita2003@rediffmail.com
+
+
+
+
+
+
+
+
+Mr. Prashant Bhardwaj
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+prashant.cse@nita.ac.in
+
+
+
+
+
+
+
+
+Mrs. Priyanka Sarkar
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+priyanka.csenita@gmail.com
+
+
+
+
+
+
+
+
+Dr. Tannistha Pal
+
+Assistant Professor (Contractual)
+Computer Science and Engineering, 
+tannisthapaul@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department Important Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            National Institute of Technology Agartala
+                            
+                            Jirania , West Tripura
+                            
+                            Pin - 799046
+                             : director@nita.ac.in, nita.director@gmail.com 
+                            
+ : (0381)2546630 & Fax:(0381)2546360
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Reports/Minutes
+
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+
+
+
+Other Links
+
+Institute Innovation Council & Startup
+Hyperlink Policy
+Disclaimer
+Holiday List
+Alumni
+RMC Committee
+GSTIN of NITA
+
+
+
+External links
+
+ICT Initiatives of MoE
+Ministry of Education
+CSAB 
+DASA, ICCR
+CCMT  
+CCMN
+National Career Service Portal
+
+
+
+Contact
+
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+
+
+
+
+
+                        Copyright. All rights reserved. Â© National Institute of Technology Agartala
+                    
+                    
+Designed by Mastersoft | Maintained by NIT Agartala
+NIT Durgapur
+
+Faculty
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Abhijit Sharma
+				Assistant Professor				
+Research Interest
+
+				
+	
+		Deep Learning and Activity Recognition
+	
+ More...
+
+ abhijit.sharma@cse.nitdgp.ac.in																 +91-9434789008									
+Joined the Institute in 2010
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Animesh Dutta
+				Associate Professor				
+Research Interest
+
+				Big Data and Social Network AnalysisSemantic Web a More...
+
+ animesh@cse.nitdgp.ac.in																 91-9434788180									
+Joined the Institute in 2007
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Anirban Sarkar
+				Associate Professor				
+Research Interest
+
+				Software Engineering,Database Management System,Ob More...
+
+ anirban.sarkar@cse.nitdgp.ac.in																 +91-9434002205									
+Joined the Institute in 2000
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Baisakhi Chakraborty
+				Associate Professor				
+Research Interest
+
+				Database Management Systems, Knowledge systems, ca More...
+
+ baisakhi.chakraborty@cse.nitdgp.ac.in																 91-9434788065									
+Joined the Institute in 2001
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Bibhash Sen
+				Associate Professor				
+Research Interest
+
+				
+	
+		Hardware Security (PUF) and its application More...
+
+ bibhash.sen@cse.nitdgp.ac.in																 +91-9434788161									
+Joined the Institute in 2008
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Dakshina Ranjan Kisku
+				Associate Professor				
+Research Interest
+
+				
+	Research Interests:
+
+	
+		
+			Biometrics
+	 More...
+
+ drkisku@cse.nitdgp.ac.in																 91-9732111234									
+Joined the Institute in 2014
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Debashis Nandi
+				Professor				
+Research Interest
+
+				Image Processing, Medical Imaging, Communication S More...
+
+ debashis@cse.nitdgp.ac.in																 91-9434788026									
+Joined the Institute in 2001
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Debasis Mitra
+				Associate Professor				
+Research Interest
+
+				Computer-aided design and testing of digital VLSI  More...
+
+ debasis@cse.nitdgp.ac.in																 91-9434789012									
+Joined the Institute in 2010
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Deepanwita Das
+				Assistant Professor				
+Research Interest
+
+				Distributed Algorithms, Swarm Robotics, Robot Desi More...
+
+ deepanwita@cse.nitdgp.ac.in																 91-9434788179									
+Joined the Institute in 2007
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Goutam Sarker
+				Associate Professor 				
+Research Interest
+
+				
+	Â 
+
+	Artificial Intelligence and Machine  More...
+
+ goutam.sarker@cse.nitdgp.ac.in																 +91-9434788025									
+Joined the Institute in July, 1998
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Jaydeep Howlader
+				Assistant Professor				
+Research Interest
+
+				Cryptography, Theory of Computation, Object Orient More...
+
+ jaydeep@cse.nitdgp.ac.in																 91-9434788178									
+Joined the Institute in 2002
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Mamata Dalui Chakraborty
+				Assistant Professor				
+Research Interest
+
+				Intelligent Biomedical DevicesMulti-Processor and  More...
+
+ mamata.dalui@cse.nitdgp.ac.in																 91-9434789011									
+Joined the Institute in 2010
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Mousumi Saha
+				Associate Professor				
+Research Interest
+
+				Cellular AutomataVLSI Design And TestingIntenet of More...
+
+ mousumi.saha@cse.nitdgp.ac.in																 +91-9434788194									
+Joined the Institute in 2000
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Nanda Dulal Jana
+				Assistant Professor				
+Research Interest
+
+				Machine LearningEvolutionary ComputationDeep Learn More...
+
+ nandadulal@cse.nitdgp.ac.in																 91-9434788181									
+Joined the Institute in 2008
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Parag Kumar Guhathakurta
+				Assistant Professor				
+Research Interest
+
+				DBMS, Network, Algorithm Analysis and Design, Form More...
+
+ paragkumar.guhathakurta@cse.nitdgp.ac.in																 91-9434788159									
+Joined the Institute in 2007
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Prasenjit Choudhury
+				Associate Professor				
+Research Interest
+
+				
+	
+		
+			Recommender System
+		
+			Data Scienc More...
+
+ prasenjit0007@yahoo.co.in																 91-9434788196									
+Joined the Institute in 01/10/2001
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Rajib Kumar Chatterjee
+				Assistant Professor				
+Research Interest
+
+				Software Engineering
+
+ rajib.chatterjee@cc.nitdgp.ac.in																 91-9474051285									
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sajal Mukhopadhyay
+				Associate Professor				
+Research Interest
+
+				Algorithmic game theory and its applications, Rein More...
+
+ sajal@cse.nitdgp.ac.in																 91-9434788177									
+Joined the Institute in 2001
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sandip Karmakar
+				Assistant Professor				
+Research Interest
+
+				Cryptography, Cellular Automata, Side Channel Atta More...
+
+ sandip.karmakar@cse.nitdgp.ac.in																 91-9434789035									
+Joined the Institute in 2018
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sanghita Bhattacharjee
+				Assistant Professor				
+Research Interest
+
+				Wireless Ad hoc and Sensor NetworksQoS Analysis in More...
+
+ sanghita.bhattacharjee@cse.nitdgp.ac.in																 91-9434789010									
+Joined the Institute in 2010
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sanjib Sadhu
+				Assistant Professor				
+Research Interest
+
+Computational Geometry.Delay Tolerant Network
+
+ sanjib.sadhu@cse.nitdgp.ac.in																 +91-9434788160									
+Joined the Institute in 2008
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Saravanan Chandran
+				Associate Professor				
+Research Interest
+
+Image ProcessingComputer VisionBiometrics
+
+ cs@cse.nitdgp.ac.in																 91-9434788036									
+Joined the Institute in 2007
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Subhankar Majhi
+				Assistant Professor				
+Research Interest
+
+VLSI,Computer Graphics
+
+ subhankar@cse.nitdgp.ac.in																 91-3432755302									
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Subhrabrata Choudhury
+				Professor				
+Research Interest
+
+				
+	Communication Networks, Modeling & simulati More...
+
+ subhrabrata@cse.nitdgp.ac.in																 91-9434788133									
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Subrata Nandi
+				Professor				
+Research Interest
+
+				
+	Network Systems,Â Sensor Networks,Â Del More...
+
+ subrata.nandi@cse.nitdgp.ac.in																 91-9434788158									
+Joined the Institute in 1998
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Suchismita Roy
+				Professor				
+Research Interest
+
+				VLSI Design Automation and Testing.FPGA based Embe More...
+
+ suchismita.roy@cse.nitdgp.ac.in																 +91-9434788122									
+Joined the Institute in 1998
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sujoy Saha
+				Assistant Professor				
+Research Interest
+
+				1. Modelling & System Development for Challeng More...
+
+ sujoy.saha@cse.nitdgp.ac.in																 +91-9434789009									
+Joined the Institute in 2010
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Suvamoy Changder
+				Associate Professor & Associate Dean (SW)				
+Research Interest
+
+				Information Security. Steganography & Watermar More...
+
+ suvamoy.changder@cse.nitdgp.ac.in																 91-9434788094									
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Suvrojit Das
+				Associate Professor				
+Research Interest
+
+				System SecurityDistributed SystemsTheory of Comput More...
+
+ suvrojit.das@cse.nitdgp.ac.in																 91-9434788197									
+Joined the Institute in 2002
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Tandra Pal
+				Professor				
+Research Interest
+
+				Computational Intelligence (CI)/Soft Computing, Mu More...
+
+ tandra.pal@cse.nitdgp.ac.in																 9434788121									
+Joined the Institute in 1994
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Tanmay De
+				Professor				
+Research Interest
+
+				Optical Network, Delay Tolerant Network, Wireless  More...
+
+ tanmay.de@cse.nitdgp.ac.in																 91-9434788123									
+Joined the Institute in 1998
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Ankush Acharyya
+				Assistant Professor				
+Research Interest
+
+				
+Design and analysis of Algorithms, Computational More...
+
+ ankush.acharyya@cse.nitdgp.ac.in														
+Joined the Institute in December 2022
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Monalisa Mandal
+				Assistant Professor				
+Research Interest
+
+
+
+ monalisa.mandal@cse.nitdgp.ac.in																 9337112670									
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Narayan Murmu
+				 Assistant Professor				
+Research Interest
+
+				
+	Stereo Vision, Robotic Vision, Image Proccessin More...
+
+ narayan@cse.nitdgp.ac.in																 9434788096									
+Joined the Institute in 2022
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Shyantani Maiti
+				Assistant Professor				
+Research Interest
+
+				
+	Bioinformatics
+
+	Computational Biology
+
+	Ma More...
+
+ shyantani.maiti@cse.nitdgp.ac.in																 9434789084									
+Joined the Institute in 2022
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Subhas Chandra Sahana
+				 Assistant Professor				
+Research Interest
+
+
+
+ subhaschandra.sahana@cse.nitdgp.ac.in																 9402135453									
+Joined the Institute in 20th July, 2022
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Sujan Kumar Saha
+				Associate Professor				
+Research Interest
+
+				
+	
+		Natural Language Processing
+	
+		Education More...
+
+ sujankumar.saha@cse.nitdgp.ac.in														
+Joined the Institute in 2022
+View Details
+
+
+
+
+
+
+
+
+
+
+
+
+Suvadip Batabyal
+				Assistant Professor				
+Research Interest
+
+				
+	1. Networks and Communication (5G, B5G, 6G, DTN More...
+
+ suvadip.batabyal@cse.nitdgp.ac.in																 91-9477484204 									
+Joined the Institute in 2022
+View Details
+
+
+
+
+
+
+
+Retired Faculty
+Retired faculty not founds!!!
+
+Computer Science & Engg. - Dr B R Ambedkar National Institute of Technology, Jalandhar
+
+
+
+
+Website:Â https://www.nitj.ac.in/cse/
+				Â 
+Monthly Academic ActivitiesÂ 
+Report/Highlights of various Conferences, Short Term Courses, Workshops etc.Â Â 
+				Â 
+Â HODÂ  Â :Â hcs@nitj.ac.in
+Â Office :Â ocs@nitj.ac.in
+
+
+
+
+
+
+
+Name
+Designation
+Email ID
+
+
+Dr Ajay K Sharma
+Professor (HAG)Â (on lien)
+sharmaajayk@nitj.ac.in
+
+
+Dr A L Sangal
+Professor (HAG)
+sangalal@nitj.ac.in
+
+
+Dr Harsh K Verma
+Professor
+vermah@nitj.ac.in
+
+
+Mr D K Gupta
+Associate Professor
+guptadk@nitj.ac.in
+
+
+Dr Geeta Sikka
+Associate ProfessorÂ (on lien)
+sikkag@nitj.ac.in
+
+
+Dr Rajneesh Rani
+Associate Professor & Head
+ranir@nitj.ac.in
+
+
+Dr Renu Dhir
+Associate Professor
+dhirr@nitj.ac.in
+
+
+Dr Amritpal Singh
+Assistant Professor (Grade-I)
+apsingh@nitj.ac.in
+
+
+Dr Aruna Malik
+Assistant Professor (Grade-I)
+malika@nitj.ac.in
+
+
+Dr Krishna Pal Sharma
+Assistant Professor (Grade-I)
+sharmakp@nitj.ac.in
+
+
+Dr Nagendra Pratap Singh
+Assistant Professor (Grade-I)
+singhnp@nitj.ac.in
+
+
+Dr Samayveer Singh
+Assistant Professor (Grade-I)
+samays@nitj.ac.in
+
+
+Dr Urvashi
+Assistant Professor (Grade-I)
+urvashi@nitj.ac.in
+
+
+Dr Jagdeep Kaur
+Assistant Professor (Grade-II)
+kaurj@nitj.ac.in
+
+
+Dr Kunwar Pal
+Assistant Professor (Grade-II)
+kunwarp@nitj.ac.in
+
+
+Dr Lalatendu Behera
+Assistant Professor (Grade-II)
+beheral@nitj.ac.in
+
+
+Dr Mamta
+Assistant Professor (Grade-II)
+mamta@nitj.ac.in
+
+
+Dr Shveta Mahajan
+Assistant Professor (Grade-II)
+mahajans@nitj.ac.in
+
+
+Dr Banalaxmi Brahma
+Assistant Professor (Grade-II)
+brahmab@nitj.ac.in
+
+
+Dr Shefali Arora Chouhan
+Assistant Professor (Grade-II)
+chouhansa@nitj.ac.in
+
+
+Dr Avtar Singh
+Assistant Professor
+avtars@nitj.ac.in
+
+
+Dr Prashant Kumar
+Assistant Professor
+prashantk@nitj.ac.in
+
+
+Mr Rahul Aggarwal
+Assistant Professor
+aggarwalr@nitj.ac.in
+
+
+
+
+
+Computer Programming Laboratory
+
+
+Data Communication Laboratory
+
+
+Computer Network Laboratory
+
+
+Operating System Laboratory
+
+
+Computer Graphics Laboratory
+
+
+Natural Language and Pattern Recognition Laboratory
+
+
+Embedded Systems Laboratory
+
+
+Software Engineering Laboratory
+
+
+Information Security Education and Awareness Laboratory
+
+
+Project Laboratory for M Tech
+
+
+Wireless Sensor Networks Laboratory
+
+
+Wireless and Optical Networks Laboratory
+
+
+Microprocessor Laboratory
+
+
+Digital Circuit Logic Design Laboratory
+
+
+RDBMS Laboratory
+
+
+
+	NIT Srinagar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dr. Roohie Naaz  Mir
+Professor (HAG)
+
+naaz310@nitsri.net
+
+
+
+
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Mohammad Ahsan Chishti
+HOD & Associate Professor
+
+ahsan@nitsri.net
+
+
+
+Computer Networks, Internet of Things, Big Data, Machine Learning, Next Generation Networks
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Shaima Qureshi
+Associate Professor
+
+shaima@nitsri.net
+9419024540
+
+
+Algorithms, Networks, Internet of Things
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Ranjeet Kumar Rout
+Assistant Professor
+
+ranjeetkumarrout@nitsri.net
+8895125180
+
+
+Computer Vision, Biometric, Information Security and Privacy, Computational Biology (Biological data Analytics) and Cyber Physical Systems.
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Sparsh Sharma
+Assistant Professor
+
+sparsharma@outlook.com
+
+
+
+Cyber Security, Ethical Hacking and Forensics, Blockchains, Machine Learning & Deep Learning
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Veningston K
+Assistant Professor
+
+veningstonk@gmail.com
+9790278826
+
+
+Natural Language Processing, Information Retrieval, Text summarization, Sentiment analysis & Recommendation systems.
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Pramod Kumar Yadav
+Assistant Professor
+
+pramod.kumar@nitsri.net
+9411407432
+
+
+Database, Big Data, Cloud Computing, Internet of Things.
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Amandeep Kaur
+Assistant Professor
+
+ghotraaman17@gmail.com
+
+
+
+Internet of Things, Cloud Computing, Data Analytics
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Tawseef Ayoub Shaikh
+Assistant Professor
+
+tawseef.shaikh@nitsri.net
+
+
+
+Biomedical Data Analytics, Computer Aided Diagnostics Tools for Precision Medicine, Healthcare Informatics, Pattern Recognition, Machine Intelligence
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+ Dr. Lavanya Madhuri Bollipo
+Assistant Professor
+
+lavanyasandeep@gmail.com
+
+
+
+Deep Learning, Computer Vision, Optimal Algorithms, Radar Data Analysis, Time-series Data Prediction
+
+More Detail
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+Departments
+Centres
+Facilities
+Notifications
+
+
+
+
+
+
+
+
+Computer Science & Engineering
+  NATIONAL INSTITUTE OF TECHNOLOGY SRINAGAR, HAZRATBAL- 190006
+0194-242-2032 info@nitsri.ac.in 
+Mon â€“ Fri 9:00A.M. â€“ 5:00P.M. 
+ Department Page
+
+
+
+
+
+
+
+
+
+ When one teaches, two learn 
+  Seminars
+ A good teacher is like a candle â€“ it consumes itself to light the way for others.
+ 
+ Faculty Development Programmes
+
+
+
+
+
+
+
+

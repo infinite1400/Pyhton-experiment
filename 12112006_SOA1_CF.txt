@@ -1,0 +1,635 @@
+import requests
+from bs4 import BeautifulSoup
+url = "https://nitkkr.ac.in/#"
+
+r = requests.get(url)
+htmlContent = r.content
+soup = BeautifulSoup(htmlContent, 'html.parser')
+title = soup.title
+element1 = soup.find_all('a')
+file = open("output.txt", "w")
+file.write(title.text)
+file.close()
+
+def function(i):
+        # print(i)
+        x=requests.get(i)
+        htmlContent = x.content
+        soup = BeautifulSoup(htmlContent, 'html.parser')
+        y = soup.find_all(class_=["hd", "left-sec"])
+        file = open("output.txt", "a",encoding='utf-8')
+        file.write(title.text)
+        for i in y:
+            for a in i.text.split("\n"):
+               if (len(a) > 0):
+                    file.write(a+"\n")
+            file.write("\n")
+for element in element1:
+    if (element.text == "Faculty"):
+        function(element['href'])
+
+element1 = []
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/csed/csedfp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/am/appmecfp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/biotech/biotechfp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/cm/cmfp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/ce/cefp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/ee/eefp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/ece/ecefp")
+element1.append("http://www.mnnit.ac.in/index.php/department/engineering/me/mefpa")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_=["item-page"])
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+element1 = []
+element1.append("https://mnit.ac.in/dept_arch/people")
+element1.append("https://mnit.ac.in/dept_mech/people")
+element1.append("https://mnit.ac.in/dept_ee/people")
+element1.append("https://mnit.ac.in/dept_cse/people")
+element1.append("https://mnit.ac.in/dept_ece/people")
+element1.append("https://mnit.ac.in/dept_civil/people")
+element1.append("https://mnit.ac.in/dept_chemical/people")
+element1.append("https://mnit.ac.in/dept_mme/people")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_=["tab-content"])
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/bt")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/che")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/cy")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/cs")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/mech")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/eee")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/ce")
+element1.append("https://wsdc.nitw.ac.in/facultynew/dept/faculty_profiles/ece")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_="grid-container")
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("http://www.manit.ac.in/content/biological-science-engineering")
+element1.append("http://www.manit.ac.in/civil-engineering-department")
+element1.append("http://www.manit.ac.in/content/chemical-engineering-0")
+element1.append("http://www.manit.ac.in/computer-science-engineering-department-0")
+element1.append("http://www.manit.ac.in/content/electrical-engineering")
+element1.append("http://www.manit.ac.in/content/electronics-communication-engineering")
+element1.append("http://www.manit.ac.in/content/materials-metallurgical-engineering")
+element1.append("http://www.manit.ac.in/content/mechanical-engineering")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_="peoplearea")
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+element1 = []
+element1.append("https://vnit.ac.in/cse/index.php/faculty/")
+element1.append("https://vnit.ac.in/eee/index.php/faculty/")
+element1.append("https://vnit.ac.in/mech/index.php/faculty/")
+element1.append("https://vnit.ac.in/meta/index.php/faculty/")
+element1.append("https://vnit.ac.in/ece/index.php/faculty/")
+element1.append("https://vnit.ac.in/civil/index.php/faculty/")
+element1.append("https://vnit.ac.in/chemical/index.php/faculty/")
+
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(id="primary")
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+element1 = []
+element1.append("https://www.nitm.ac.in/department/computer-science-engineering/faculty-1")
+element1.append("https://www.nitm.ac.in/department/civil-engineering/faculty-6")
+element1.append("https://www.nitm.ac.in/department/electrical-engineering-1/faculty-2")
+element1.append("https://www.nitm.ac.in/department/electronics-communication-engineering-2/faculty")
+element1.append("https://www.nitm.ac.in/department/mechanical-engineering-1/faculty-7")
+
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_="row")
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://nitdgp.ac.in/department/civil-engineering/faculty-3")
+element1.append("https://nitdgp.ac.in/department/biotechnology/faculty-2")
+element1.append("https://nitdgp.ac.in/department/chemical-engineering/faculty-4")
+element1.append("https://nitdgp.ac.in/department/computer-science-engineering/faculty-1")
+element1.append("https://nitdgp.ac.in/department/electronics-and-communication-engineering/faculty-6")
+element1.append("https://nitdgp.ac.in/department/electrical-engineering/faculty-7")
+element1.append("https://nitdgp.ac.in/department/mechanical-engineering/faculty-11")
+element1.append("https://nitdgp.ac.in/department/metallurgical-materials-engineering/faculty-12")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all(class_="card-body")
+    file = open("output.txt", "a", encoding='utf-8')
+    for j in y:
+        for a in j.text.split("\n"):
+            if (len(a) > 5):
+                file.write(a+"\n")
+        file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("http://www.nitrr.ac.in/aboutbiomed.php")
+element1.append("http://www.nitrr.ac.in/aboutchemical.php")
+element1.append("http://www.nitrr.ac.in/aboutcivil.php")
+element1.append("http://www.nitrr.ac.in/aboutcse.php")
+element1.append("http://www.nitrr.ac.in/aboutelectrical.php")
+element1.append("http://www.nitrr.ac.in/aboutelectronics.php")
+element1.append("http://www.nitrr.ac.in/aboutmechanical.php")
+element1.append("http://www.nitrr.ac.in/aboutit.php")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    file = open("output.txt", "a", encoding='utf-8')
+    y = soup.find_all('table',class_="table table-bordered")
+    for j in y:
+            # print(j.text)
+            for a in j.text.split("\n"):
+                if (len(a) > 1):
+                    file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://nitdelhi.ac.in/?page_id=11977")
+element1.append("https://nitdelhi.ac.in/?page_id=11979")
+element1.append("https://nitdelhi.ac.in/?page_id=11985")
+element1.append("https://nitdelhi.ac.in/?page_id=11981")
+element1.append("https://nitdelhi.ac.in/?page_id=11993")
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    file = open("output.txt", "a", encoding='utf-8')
+    y = soup.find_all('div',class_=["table-responsive"])
+    for j in y:
+        # print(i.text)
+            for a in j.text.split("\n"):
+                if (len(a) > 1):
+                    file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://www.nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=cs")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=e")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=ec")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=g")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=c")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=cs")
+element1.append("https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=i")
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    file = open("output.txt", "a", encoding='utf-8')
+    y = soup.find_all('div',class_=["gdlr-core-page-builder-body"])
+    for j in y:
+        # print(j.text)
+            for a in j.text.split("\n"):
+                if (len(a) > 1):
+                    file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://cse.nitsikkim.ac.in/people.php")
+element1.append("https://ce.nitsikkim.ac.in/")
+element1.append("https://ece.nitsikkim.ac.in/people.php")
+element1.append("https://eee.nitsikkim.ac.in/people.php")
+element1.append("https://me.nitsikkim.ac.in/people.php")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    file = open("output.txt", "a", encoding='utf-8')
+    y = soup.find_all(class_=["container-fluid px-5 py-4"])
+    for j in y:
+        # print(j.text)
+            for a in j.text.split("\n"):
+                if (len(a) > 1):
+                    file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("https://www.nitnagaland.ac.in/index.php/cse-people/cse-faculty")
+element1.append("https://www.nitnagaland.ac.in/index.php/cse-people/eee-faculty")
+element1.append("https://www.nitnagaland.ac.in/index.php/cse-people/ece-faculty")
+element1.append("https://www.nitnagaland.ac.in/index.php/cse-people/eie-faculty")
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    file = open("output.txt", "a", encoding='utf-8')
+    y = soup.find_all('div',class_=["g-block size-84 shadow equal-height"])
+    for j in y:
+        # print(j.text)
+            for a in j.text.split("\n"):
+                if (len(a) > 1):
+                    file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+
+element1 = []
+element1.append("http://ce.nits.ac.in/faculty/")
+element1.append("http://me.nits.ac.in/faculty/")
+element1.append("http://eie.nits.ac.in/faculty/")
+element1.append("http://cs.nits.ac.in/faculty/")
+element1.append("http://ec.nits.ac.in/faculty/")
+element1.append("http://eed.nits.ac.in/faculty/")
+
+
+
+
+for i in element1:
+    print(i)
+    x = requests.get(i)
+    htmlContent = x.content
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+    y = soup.find_all( 'div',class_=["panel-group","tab-content"])
+    file = open("file.txt", "a", encoding='utf-8')
+    # i=y.find_all('a')
+    for i in y:
+        # print(i.text)
+        for j in y:
+            for a in j.text.split("\n"):
+                if (len(a) > 5):
+                 file.write(a+"\n")
+            file.write("\n")
+element1.clear()
+html_text4=requests.get('https://www.nitgoa.ac.in/EMPBiodata.aspx').text
+soup4=BeautifulSoup(html_text4,'lxml')
+faculty4=soup4.find_all('div',class_='col-md-4 col-sm-6 text-center')
+#print(faculty4)
+with open('nitgoa.csv', 'w', encoding='utf8', newline='') as f:
+    thewriter = writer(f)
+    header = ['Name', 'Email', 'Phone','Research Area']
+    thewriter.writerow(header)
+    for teachers in faculty4:
+        name=teachers.find('h2').text.replace('\n','')
+        matter=teachers.find_all('p')
+        email=matter[3].text.split(':')[1]
+        phone=matter[4].text.split(':')[1]
+        ResearchArea=matter[5].text.split(':')[1]
+        print("Name:",name)
+        print("Email:",matter[3].text.split(':')[1])
+        print("Phone:",matter[4].text.split(':')[1])
+        print("Research Area:",matter[5].text.split(':')[1])
+        # print("Phone:",phone)
+        info = [name, email, phone,ResearchArea]
+        thewriter.writerow(info)
+
+def surathkal(str):
+    return str.strip().replace("\n", "").replace("\xa0", "")
+
+
+def cal(str):
+    return str.strip().replace("\n", "").replace("\xa0", "")
+
+
+def nitc(URL):
+    url = urlopen(URL)
+    bsobj = soup(url.read(), "lxml")
+    file = open("master-file.txt", "a+", encoding="utf-8")
+    name = bsobj.select("[id~=mission_cap_arch]")[0].text
+    file.write(name+"\n")
+    profile = bsobj.select("[id~=welcomecontent_arch] tr")[2:]
+    for p in profile:
+        if 'E-mail' in p.text or 'Phone' in p.text:
+            file.write(cal(p.text)+"\n")
+    file.write("\n")
+    file.close()
+
+
+def NITC():
+    url = "https://www.nitc.ac.in"
+    site = urlopen(url+"/index.php/?url=department")
+    obj = soup(site.read(), 'lxml')
+    links = obj.select("#welcomecontent a[href]")
+    file = open("master-file.txt", "a+", encoding="utf-8")
+    file.write("\n\n----------------------------------------------\n")
+    file.write(obj.title.text+"\n\n")
+    file.close()
+    for a in range(10):
+        list = links[a].get('href')
+        if '/index' in list:
+            list = url+list.replace("/index/", "/people/")+"/0/5"
+            site = urlopen(list)
+            obj = soup(site.read(), 'lxml')
+            for l in obj.select('[id~=welcomecontent_arch] a[href]')[1:]:
+                lis = url+l.get('href')
+                if 'user' in lis:
+                    nitc(lis)
+        print("✓ NIT Calicut - Working...")
+
+if __name__ == "__main__":
+    file = open("master-file.txt", "w+", encoding="utf-8")
+    file.close()
+    NITC()
+def scrape(url):
+    soup = BeautifulSoup(requests.get(url).text, "html.parser")
+    rows = soup.find_all(attrs={"class": "container-fluid"})[0].div
+
+    profs = rows.find_all(attrs={"class": "col-md-4"})
+
+    for prof in profs:
+        for data in prof.div.div.strings:
+            if (data != "More"):
+                print(data)
+        print("\n----------------------------------------\n")
+
+
+def parse(url):
+    names = {"cse": "Computer Engineering Department", "ece": "Electronics and Communication Department",
+             "eee": "EEE Department Details", "ce": "Civil Engineering Department Details"}
+
+    start_index = 8
+    end_index = url.find(".")
+    dept = url[start_index: end_index]
+    return names[dept]
+
+
+urls = ["https://cse.nitsikkim.ac.in/people.php", "https://ece.nitsikkim.ac.in/people.php",
+        "https://eee.nitsikkim.ac.in/people.php", "https://ce.nitsikkim.ac.in/people.php"]
+
+for url in urls:
+    print("********************************\n")
+    print("Printing details for", parse(url),"->->->->\n")
+    
+    scrape(url)
+
+
+def scrape(url):
+    soup = BeautifulSoup(requests.get(url).text, "html.parser")
+    rows = soup.find_all(attrs={"class": "container-fluid"})[0].div
+
+    profs = rows.find_all(attrs={"class": "col-md-4"})
+
+    for prof in profs:
+        for data in prof.div.div.strings:
+            if (data != "More"):
+                print(data)
+        print("\n----------------------------------------\n")
+
+
+def parse(url):
+    names = {"cse": "Computer Engineering Department", "ece": "Electronics and Communication Department",
+             "eee": "EEE Department Details", "ce": "Civil Engineering Department Details"}
+
+    start_index = 8
+    end_index = url.find(".")
+    dept = url[start_index: end_index]
+    return names[dept]
+
+
+urls = ["https://cse.nitsikkim.ac.in/people.php", "https://ece.nitsikkim.ac.in/people.php",
+        "https://eee.nitsikkim.ac.in/people.php", "https://ce.nitsikkim.ac.in/people.php"]
+
+for url in urls:
+    print("********************************\n")
+    print("Printing details for", parse(url),"->->->->\n")
+    
+    scrape(url)
+
+	
+from csv import writer
+links=['https://www.nitmz.ac.in/EMPBiodata.aspx']
+with open('nitmizoram.csv', 'w', encoding='utf8', newline='') as f:
+    thewriter = writer(f)
+    header = ['Name', 'Email','Research Area']
+    thewriter.writerow(header)
+    for i in range(1):
+        html_text4=requests.get(links[i]).text
+        soup4=BeautifulSoup(html_text4,'lxml')
+        faculty4=soup4.find_all('table',attrs={'cellpadding':'0','cellspacing':'0','width':'100%','style':'line-height: 25px'})
+        #print(faculty4)      
+        for teachers in faculty4:
+            matter=teachers.find_all('td',class_='link-smallProfile')
+            name=matter[0].text.replace('\n','')
+            email=matter[2].text.split()[3]
+            aoi=teachers.find_all('tr')
+            aoi1=aoi[4].text.replace('\r','')
+            aoi1=aoi1.replace('\n','').split(':')[1]
+            print("Name:",name)
+            print("Email:",email)
+            print("Area of Interest:",aoi1)
+            info = [name, email,aoi1]
+            thewriter.writerow(info)
+
+
+from csv import writer
+links=['https://www.nitnagaland.ac.in/index.php/cse-people/cse-faculty']
+with open('nitnagaland.csv', 'w', encoding='utf8', newline='') as f:
+    thewriter = writer(f)
+    header = ['Name', 'Email','Research Area']
+    thewriter.writerow(header)
+    for i in range(1):
+        html_text4=requests.get(links[i]).text
+        soup4=BeautifulSoup(html_text4,'lxml')
+        faculty4=soup4.find_all('div',class_='fp-testimonials')      
+        for teachers in faculty4:
+            name=teachers.find('b').text
+            email=teachers.find('div').text.split('\n')[3]
+            matter=teachers.find('div').text.split('\n')[4]
+            aoi=matter.split(":")[1]
+            print("Name:",name)
+            print("Email:",email)
+            print("Aoi:",aoi)
+            info = [name, email,aoi]
+            thewriter.writerow(info)
+
+
+from csv import writer
+links=['https://nituk.ac.in/computer-science-engineering/peoples','https://nituk.ac.in/civil-engineering/peoples','https://nituk.ac.in/electrical-engineering/peoples','https://nituk.ac.in/electronics-engineering/peoples','https://nituk.ac.in/mechanical-engineering/peoples']
+with open('nituttr.csv', 'w', encoding='utf8', newline='') as f:
+    thewriter = writer(f)
+    header = ['Name', 'Email', 'Phone','Research Area']
+    thewriter.writerow(header)
+    for i in range(5):
+        html_text4=requests.get(links[i]).text
+        soup4=BeautifulSoup(html_text4,'lxml')
+        faculty4=soup4.find_all('td',attrs={'width':'400'})
+        #print(faculty4)      
+        for teachers in faculty4:
+            name=teachers.find('a').text.replace('\n','')
+            matter=teachers.find('span').text.split(':')
+            if(len(matter)>=5):
+               email=matter[4]
+            else:
+                email='null'
+            if(len(matter)>=3):
+               phone=matter[2]
+            else:
+                phone='null'
+            #phone=matter[2]
+            if(len(matter)>=6):
+               aoi=matter[5]
+            print("Name:",name)
+            print("Email:",email)
+            print("Area of Interest:",aoi)
+            print("Phone:",phone)
+            # print("Phone:",phone)
+            info = [name, email, phone,aoi]
+            thewriter.writerow(info)
+
+url = "https://www.nitt.edu/"
+
+r = requests.get(url)
+
+htmlcontent = r.content
+
+soup = BeautifulSoup(htmlcontent,'html.parser')
+
+dept = soup.find('li',class_='menu-item-93')
+link = dept.find('a').get('href')
+
+depreq = requests.get(link)
+depsoup = BeautifulSoup(depreq.content,'html.parser')
+depart = depsoup.find_all('div',class_='facitem')
+for ln in depart:
+    urli ="https://www.nitt.edu/home/academics/departments/" + ln.find('a').get('href')
+    faculurl = urli+"faculty"
+    faculreq = requests.get(faculurl)
+    faculsoup = BeautifulSoup(faculreq.content,'html.parser')
+    teachers = faculsoup.find_all('div',class_='facitem')
+    for tech in teachers:
+        name = tech.find('a')
+        if(name!=None):
+            print("Name : ",name.text.strip())
+        interest = tech.find('p')
+        if(interest!=None):
+            print("Research Interests",interest.text.strip())
+
+doc = docx.Document()
+
+options = Options()
+options.add_argument("--headless")
+driver = webdriver.Firefox(options=options)
+
+doc.add_paragraph("Full Name \n Designation \n Email ID \n Contact Number \n Research area")
+
+url_list = ["https://nitpy.ac.in/academics/departments/civil/faculty",
+            "https://nitpy.ac.in/academics/departments/cse/faculty",
+            "https://nitpy.ac.in/academics/departments/ece/faculty",
+            "https://nitpy.ac.in/academics/departments/eee/faculty",
+            "https://nitpy.ac.in/academics/departments/mech/faculty"
+            ]
+
+for page in url_list:
+    driver.get(page)
+    driver.refresh()
+    soup = BeautifulSoup(driver.page_source, "html.parser")
+    s = soup.find_all("app-department-faculty-view")
+    for faculty in s:
+        facultyData = faculty.find_all("p")
+
+        # Faculty Name
+        fac_name = facultyData[0].text.split(":")[1].strip()
+
+        # Designation
+        fac_designation = facultyData[1].text.split(":")[1].strip()
+
+        # E-Mail
+        fac_email = facultyData[2].text.split(":")[1].strip()
+
+        # Phone Number
+        fac_phone = facultyData[3].text.split(":")[1].strip()
+	    fac_research = "-"
+
+        if len(facultyData) >= 5:
+                try:
+                    fac_research = facultyData[4].text.split(":")[1].strip()
+                except:
+                    fac_research = "-"
+                finally:
+                    pass
+                doc.add_paragraph("\n==============================================================\n" +
+                          fac_name + " \n" + fac_designation + " \n " + fac_email + " \n " +
+                          fac_phone + " \n " + fac_research)
+
+doc.save('output.docx')
